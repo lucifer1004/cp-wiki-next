@@ -26,5 +26,9 @@
   "item.label.数据结构 | Data Structures": {
     "message": "Data Structures",
     "description": "Navbar item with label 数据结构 | Data Structures"
+  },
+  "item.label.图论 | Graph Theory": {
+    "message": "Graph Theory",
+    "description": "Navbar item with label 图论 | Graph Theory"
   }
 }

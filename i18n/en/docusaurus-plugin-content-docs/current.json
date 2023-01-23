@@ -18,5 +18,9 @@
   "sidebar.dataStructureSidebar.category.进阶数据结构": {
     "message": "Advanced Data Structures",
     "description": "The label for category 进阶数据结构 in sidebar dataStructureSidebar"
+  },
+  "sidebar.graphSidebar.category.图论": {
+    "message": "Graph Theory",
+    "description": "The label for category 图论 in sidebar graphSidebar"
   }
 }

@@ -103,6 +103,11 @@ const config = {
               type: 'doc',
               docId: 'data-structure',
               label: '数据结构 | Data Structures'
+            },
+            {
+              type: 'doc',
+              docId: 'graph',
+              label: '图论 | Graph Theory'
             }
           ],
         },
