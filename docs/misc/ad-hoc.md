@@ -148,5 +148,3 @@ for raw_line in sys.stdin:
 ```
 
 :::
-
-<Utterances />

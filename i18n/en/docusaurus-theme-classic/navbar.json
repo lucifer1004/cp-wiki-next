@@ -15,40 +15,44 @@
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
   },
-  "item.label.基础 | Basics": {
+  "item.label.基础": {
     "message": "Basics",
-    "description": "Navbar item with label 基础 | Basics"
+    "description": "Navbar item with label 基础"
   },
-  "item.label.代数 | Algebra": {
+  "item.label.代数": {
     "message": "Algebra",
-    "description": "Navbar item with label 代数 | Algebra"
+    "description": "Navbar item with label 代数"
   },
-  "item.label.数据结构 | Data Structures": {
+  "item.label.数据结构": {
     "message": "Data Structures",
-    "description": "Navbar item with label 数据结构 | Data Structures"
+    "description": "Navbar item with label 数据结构"
   },
-  "item.label.图论 | Graph Theory": {
+  "item.label.图论": {
     "message": "Graph Theory",
-    "description": "Navbar item with label 图论 | Graph Theory"
+    "description": "Navbar item with label 图论"
   },
-  "item.label.动态规划 | Dynamic Programming": {
+  "item.label.动态规划": {
     "message": "Dynamic Programming",
-    "description": "Navbar item with label 动态规划 | Dynamic Programming"
+    "description": "Navbar item with label 动态规划"
   },
-  "item.label.计算几何 | Computational Geometry": {
+  "item.label.计算几何": {
     "message": "Computational Geometry",
-    "description": "Navbar item with label 计算几何 | Computational Geometry"
+    "description": "Navbar item with label 计算几何"
   },
-  "item.label.字符串 | Strings": {
+  "item.label.字符串": {
     "message": "Strings",
-    "description": "Navbar item with label 字符串 | Strings"
+    "description": "Navbar item with label 字符串"
   },
-  "item.label.组合数学 | Combinatorics": {
+  "item.label.组合数学": {
     "message": "Combinatorics",
-    "description": "Navbar item with label 组合数学 | Combinatorics"
+    "description": "Navbar item with label 组合数学"
   },
-  "item.label.杂项 | Miscellaneous": {
+  "item.label.杂项": {
     "message": "Miscellaneous",
-    "description": "Navbar item with label 杂项 | Miscellaneous"
+    "description": "Navbar item with label 杂项"
+  },
+  "item.label.题解": {
+    "message": "Tutorials",
+    "description": "Navbar item with label 题解"
   }
 }

@@ -95,49 +95,62 @@ const config = {
             {
               type: 'doc',
               docId: 'basic',
-              label: '基础 | Basics',
+              label: '基础',
             },
             {
               type: 'doc',
               docId: 'algebra',
-              label: '代数 | Algebra',
+              label: '代数',
             },
             {
               type: 'doc',
               docId: 'data-structure',
-              label: '数据结构 | Data Structures'
+              label: '数据结构'
             },
             {
               type: 'doc',
               docId: 'graph',
-              label: '图论 | Graph Theory'
+              label: '图论'
             },
             {
               type: 'doc',
               docId: 'dp',
-              label: '动态规划 | Dynamic Programming'
+              label: '动态规划'
             },
             {
               type: 'doc',
               docId: 'geometry',
-              label: '计算几何 | Computational Geometry'
+              label: '计算几何'
             },
             {
               type: 'doc',
               docId: 'string',
-              label: '字符串 | Strings'
+              label: '字符串'
             },
             {
               type: 'doc',
               docId: 'combinatorics',
-              label: '组合数学 | Combinatorics'
+              label: '组合数学'
             },
             {
               type: 'doc',
               docId: 'misc',
-              label: '杂项 | Miscellaneous'
+              label: '杂项'
             }
           ],
+        },
+        {
+          type: 'dropdown',
+          docId: 'basic',
+          position: 'left',
+          label: '题解',
+          items: [
+            {
+              type: 'doc',
+              docId: 'codeforces',
+              label: 'Codeforces'
+            }
+          ]
         },
         { to: '/blog', label: '博客', position: 'right' },
         {
