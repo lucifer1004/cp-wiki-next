@@ -205,5 +205,3 @@ fn main() {
 ```
 
 :::
-
-<Utterances />

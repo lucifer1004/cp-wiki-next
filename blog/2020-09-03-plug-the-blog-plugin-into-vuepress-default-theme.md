@@ -21,5 +21,3 @@ I could not choose [@vuepress/theme-blog](https://vuepress-theme-blog.ulivz.com/
 It was not until I found [Chris Noring](https://softchris.github.io/)'s blog [Create YOUR next static blog in Vuepress and Vue](https://softchris.github.io/pages/vue-vuepress.html) had I recognized that I could simply build an index page myself. So in the end, I only used the url formatting function of `plugin-blog`, while wrote other logics on my own (with reference to Chris' blog).
 
 And now the work has come to an end. It is still far from satisfactory, but I have figured out how to do it, and will implement more features in the future.
-
-<Utterances />

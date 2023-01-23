@@ -71,5 +71,3 @@ $/home/linuxbrew/.linuxbrew/Cellar/ghostscript/${GS_VERSION}/share/ghostscript/$
 ## 小结
 
 虽然目前仍然有很多不明晰的地方，但Mac和Ubuntu两个环境下GMT的中文支持都算是实现了。还没有弄清楚的地方，以后再慢慢研究。
-
-<Utterances />

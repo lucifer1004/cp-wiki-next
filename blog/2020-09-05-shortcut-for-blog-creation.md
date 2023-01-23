@@ -20,5 +20,3 @@ Currently, the CLI is very simple. I could have added things like `chalk` to bea
 ## Some thoughts
 
 With the time spent on this site increasing, I found more and more custom feature requirements. Vuepress is great because it offers both powerful defaults and extreme flexibility. I can write Vue and Node.js directly if neither defaults nor existing plugins can meet my needs.
-
-<Utterances />

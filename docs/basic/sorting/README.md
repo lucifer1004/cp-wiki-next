@@ -39,5 +39,3 @@ sidebar_position: 2
 :::details 提示
 按照剩余能量（要求减去实际消耗）降序排列，剩余能量多的先处理，剩余能量少的后处理。
 :::
-
-<Utterances />

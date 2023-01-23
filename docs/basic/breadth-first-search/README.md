@@ -13,5 +13,3 @@ sidebar_position: 5
 ## 练习题
 
 ### [BS - Cheapest Bus Route](https://binarysearch.com/problems/Cheapest-Bus-Route)
-
-<Utterances />
