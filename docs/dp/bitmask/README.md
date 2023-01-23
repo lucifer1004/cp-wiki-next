@@ -20,7 +20,7 @@
 
 :::details 提示二
 
-预处理每一个分组的总收支后，进行状态压缩动态规划。注意这里需要用到[枚举子集](/basic/enumerate/#枚举子集)的方法。
+预处理每一个分组的总收支后，进行状态压缩动态规划。注意这里需要用到[枚举子集](/docs/basic/enumerate/#枚举子集)的方法。
 
 :::
 
@@ -86,7 +86,7 @@ BFS预处理距离之后进行状态压缩动态规划。这里的状态为机�
 
 :::
 
-### [ABC195F - Coprime Present](https://atcoder.jp/contests/abc195/tasks/abc195_f)（[English Editorial](/en/tutorial/atcoder/ABC195/#problem-f-coprime-present)）
+### [ABC195F - Coprime Present](https://atcoder.jp/contests/abc195/tasks/abc195_f)
 
 :::details 提示
 
