@@ -38,6 +38,19 @@ const sidebars = {
         }
       ]
     }
+  ],
+  dataStructureSidebar: [
+    {
+      type: 'category',
+      label: '基础数据结构',
+      link: { type: 'doc', id: 'data-structure' },
+      items: ['data-structure/stack/README', 'data-structure/queue/README'],
+    },
+    {
+      type: 'category',
+      label: '进阶数据结构',
+      items: ['data-structure/balanced-binary-search-tree/README', 'data-structure/disjoint-sets-union/README', 'data-structure/segment-tree/README']
+    }
   ]
 };
 

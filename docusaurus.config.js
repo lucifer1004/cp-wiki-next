@@ -53,6 +53,10 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag: {
+          trackingID: 'G-8T7HTXKTNG',
+          anonymizeIP: false,
+        },
       }),
     ],
   ],
@@ -95,6 +99,11 @@ const config = {
               docId: 'algebra',
               label: '代数 | Algebra',
             },
+            {
+              type: 'doc',
+              docId: 'data-structure',
+              label: '数据结构 | Data Structures'
+            }
           ],
         },
         { to: '/blog', label: '博客', position: 'right' },
@@ -116,7 +125,7 @@ const config = {
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
-      additionalLanguages: ['csharp', 'elixir', 'java', 'julia', 'kotlin'],
+      additionalLanguages: ['csharp', 'elixir', 'java', 'julia', 'kotlin', 'rust'],
     },
   },
 };

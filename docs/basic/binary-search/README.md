@@ -78,7 +78,63 @@ int main() {
 
 :::details 参考代码（C++）
 
-<<< @/docs/tutorial/others/SNSS2020-R2/src/d.cpp
+```cpp
+#include <algorithm>
+#include <iostream>
+#include <vector>
+
+using namespace std;
+typedef long long ll;
+struct Author {
+  ll l, r, w, idx;
+  bool operator<(const Author &other) const {
+    return l < other.l || (l == other.l && r > other.r);
+  }
+};
+int main() {
+  int n;
+  cin >> n;
+  vector<Author> a;
+  for (int i = 0; i < n; ++i) {
+    ll l, r, w;
+    cin >> l >> r >> w;
+    a.push_back(Author{l, r, w, i + 1});
+  }
+  sort(a.begin(), a.end());
+  ll L, R;
+  cin >> L >> R;
+  ll lo = 0, hi = 1e18;
+  while (lo <= hi) {
+    ll mid = lo + (hi - lo) / 2;
+    ll l = -1, r = -1;
+    bool ok = true;
+    for (int i = 0; i < n; ++i) {
+      if (a[i].w > mid)
+        continue;
+      if (r < a[i].l)
+        l = a[i].l;
+      r = max(r, a[i].r);
+      if (r >= R)
+        break;
+    }
+    if (l != -1 && l <= L && r >= R)
+      hi = mid - 1;
+    else
+      lo = mid + 1;
+  }
+  if (lo >= 1e18) {
+    cout << -1;
+    return 0;
+  }
+  vector<int> ans;
+  for (int i = 0; i < n; ++i)
+    if (a[i].w <= lo && a[i].l < R)
+      ans.emplace_back(a[i].idx);
+  cout << ans.size() << endl;
+  for (int i : ans)
+    cout << i << " ";
+}
+```
 
 :::
 
@@ -218,7 +274,82 @@ g.show()
 
 :::details 参考代码（C++）
 
-<<<@/docs/tutorial/codeforces/1394/src/c2.cpp
+```cpp
+#include <cstdio>
+#include <iostream>
+#include <set>
+#include <vector>
+
+using namespace std;
+typedef long long ll;
+
+template <typename T> void read(T &x) {
+  x = 0;
+  char c = getchar();
+  T sig = 1;
+  for (; !isdigit(c); c = getchar())
+    if (c == '-')
+      sig = -1;
+  for (; isdigit(c); c = getchar())
+    x = (x << 3) + (x << 1) + c - '0';
+  x *= sig;
+}
+
+class Solution {
+public:
+  void solve() {
+    int n;
+    read(n);
+    set<pair<int, int>> s;
+    for (int i = 0; i < n; ++i) {
+      string t;
+      cin >> t;
+      int b = 0;
+      for (char c : t)
+        b += c == 'B';
+      s.insert({b, t.size() - b});
+    };
+    vector<pair<int, int>> vs(s.begin(), s.end());
+    auto check = [&](int l, bool output) {
+      int xl = 0, xr = 5e5, yl = 0, yr = 5e5, zl = -5e5, zr = 5e5;
+      for (auto p : vs) {
+        xl = max(xl, p.first - l);
+        xr = min(xr, p.first + l);
+        yl = max(yl, p.second - l);
+        yr = min(yr, p.second + l);
+        zl = max(zl, p.first - p.second - l);
+        zr = min(zr, p.first - p.second + l);
+      }
+      if (xl > xr || yl > yr || zl > zr)
+        return false;
+      int zl1 = xl - yr, zr1 = xr - yl;
+      if (output) {
+        // To avoid (0, 0), we choose right endpoint for both x and y.
+        int x = min(xr, zr + yr);
+        int y = min(yr, x - zl);
+        string s(x, 'B'), t(y, 'N');
+        printf("%s", (s + t).c_str());
+      }
+      return max(zl, zl1) <= min(zr, zr1);
+    };
+    int lo = 0, hi = 1e6;
+    while (lo <= hi) {
+      int mid = (lo + hi) >> 1;
+      if (check(mid, false))
+        hi = mid - 1;
+      else
+        lo = mid + 1;
+    }
+    printf("%d\n", lo);
+    check(lo, true);
+  }
+};
+
+int main() {
+  Solution solution = Solution();
+  solution.solve();
+}
+```
 
 :::
 

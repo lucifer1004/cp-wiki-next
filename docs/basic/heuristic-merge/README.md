@@ -19,7 +19,80 @@ sidebar_position: 6
 :::
 
 :::details 参考代码（C++）
-<<< @/docs/tutorial/codeforces/1455/src/g.cpp
+
+```cpp
+#include <iostream>
+#include <set>
+#include <unordered_map>
+
+typedef long long ll;
+
+using namespace std;
+int n, s;
+
+void work(unordered_map<int, ll> &cost, set<pair<ll, int>> &pq, ll &extra) {
+  string cmd;
+  int x, y;
+  unordered_map<int, ll> nc;
+  set<pair<ll, int>> nq;
+  ll ne;
+  while (n--) {
+    cin >> cmd;
+    if (cmd == "if") {
+      cin >> x;
+      nc.clear();
+      nq.clear();
+      ne = 0;
+      if (cost.count(x)) {
+        nc[x] = cost[x];
+        nq.emplace(cost[x], x);
+        pq.erase({cost[x], x});
+        cost.erase(x);
+      }
+      work(nc, nq, ne);
+      if (nc.size() > cost.size()) {
+        extra += ne;
+        ne = -ne;
+        swap(cost, nc);
+        swap(pq, nq);
+      }
+      for (auto [c, v] : nq)
+        if (!cost.count(v) || cost[v] > c + ne) {
+          pq.erase({cost[v], v});
+          cost[v] = c + ne;
+          pq.emplace(cost[v], v);
+        }
+    } else if (cmd == "set") {
+      cin >> x >> y;
+      if (cost.empty())
+        continue;
+      if (x != s) {
+        auto [c, v] = *pq.begin();
+        if (!cost.count(x) || cost[x] > c - y) {
+          pq.erase({cost[x], x});
+          cost[x] = c - y;
+          pq.emplace(cost[x], x);
+        }
+      }
+      extra += y;
+    } else
+      return;
+  }
+};
+
+int main() {
+  cin >> n >> s;
+  string cmd;
+  unordered_map<int, ll> cost;
+  set<pair<ll, int>> pq;
+  ll extra = 0;
+  cost[0] = 0;
+  pq.emplace(0, 0);
+  work(cost, pq, extra);
+  printf("%lld", pq.begin()->first + extra);
+}
+```
+
 :::
 
 ### [ABC183F - Confluence](https://atcoder.jp/contests/abc183/tasks/abc183_f)
@@ -29,7 +102,64 @@ sidebar_position: 6
 :::
 
 :::details 参考代码 （C++）
-<<<@/docs/tutorial/atcoder/ABC183/src/f.cpp
+
+```cpp
+#include <iostream>
+#include <unordered_map>
+#include <vector>
+#define MOD 1000000007
+
+using namespace std;
+typedef long long ll;
+int main() {
+  int n, q;
+  cin >> n >> q;
+  vector<int> c(n);
+  for (int i = 0; i < n; ++i)
+    cin >> c[i];
+  vector<int> parent(n);
+  vector<unordered_map<int, int>> mem(n);
+  for (int i = 0; i < n; ++i) {
+    parent[i] = i;
+    mem[i][c[i]]++;
+  }
+  auto find = [&](auto self, int u) {
+    if (parent[u] == u)
+      return u;
+    return parent[u] = self(self, parent[u]);
+  };
+
+  auto merge = [&](int u, int v) {
+    int pu = find(find, u), pv = find(find, v);
+    if (pu == pv)
+      return;
+    if (mem[pu].size() >= mem[pv].size()) {
+      for (auto [t, f] : mem[pv])
+        mem[pu][t] += f;
+      parent[pv] = pu;
+    } else {
+      for (auto [t, f] : mem[pu])
+        mem[pv][t] += f;
+      parent[pu] = pv;
+    }
+  };
+
+  while (q--) {
+    int t, x, y;
+    cin >> t >> x >> y;
+    if (t == 1) {
+      merge(x - 1, y - 1);
+    } else {
+      int root = find(find, x - 1);
+      if (mem[root].count(y))
+        cout << mem[root][y] << endl;
+      else
+        cout << 0 << endl;
+    }
+  }
+}
+```
+
 :::
 
 <Utterances />

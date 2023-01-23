@@ -22,5 +22,9 @@
   "item.label.代数 | Algebra": {
     "message": "Algebra",
     "description": "Navbar item with label 代数 | Algebra"
+  },
+  "item.label.数据结构 | Data Structures": {
+    "message": "Data Structures",
+    "description": "Navbar item with label 数据结构 | Data Structures"
   }
 }
