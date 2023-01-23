@@ -165,9 +165,9 @@ int main() {
 
 ## Problem C - [Consecutive Primes](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a8e6)
 
-### Solution I: Find the three primes $A<B\leq\sqrt{S}<C$ closest to $\sqrt{S}$
+### Solution I: Prime gap
 
-The official solution leverages the concept of the prime gap and is a very beautiful brute-force solution.
+The official solution leverages the concept of the prime gap and is a very beautiful brute-force solution. Simply finding the three primes $A<B\leq\sqrt{S}<C$ closest to $\sqrt{S}$ works.
 
 I would not repeat the prime gap part, but will instead talk about the primality test. In this problem, a naive $\sqrt{N}$ primality test is enough to pass, but we could do better with [Miller-Rabin](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test), which runs in $\mathcal{O}(K\log^3N)$ time.
 

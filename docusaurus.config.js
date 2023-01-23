@@ -191,6 +191,10 @@ const config = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          type: 'search',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -204,6 +208,29 @@ const config = {
     },
     googleAdsense: {
       dataAdClient: 'ca-pub-2391425047778930',
+    },
+    algolia: {
+      // The application ID provided by Algolia
+      appId: 'LH2XHYLVIX',
+
+      // Public API key: it is safe to commit it
+      apiKey: 'eaa5ce5f2c89967aff59b84cbfda7e98',
+
+      indexName: 'cp-wiki-next',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+
+      // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+      externalUrlRegex: 'external\\.com|domain\\.com',
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+
+      //... other Algolia params
     },
   },
 };
