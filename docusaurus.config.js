@@ -75,6 +75,7 @@ const config = {
     },
   ],
 
+  plugins: ['docusaurus-plugin-google-adsense'],
   themes: ['@docusaurus/theme-mermaid', '@docusaurus/theme-live-codeblock'],
   themeConfig:
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -195,6 +196,9 @@ const config = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
       additionalLanguages: ['csharp', 'elixir', 'java', 'julia', 'kotlin', 'rust'],
+    },
+    googleAdsense: {
+      dataAdClient: 'ca-pub-2391425047778930',
     },
   },
 };
