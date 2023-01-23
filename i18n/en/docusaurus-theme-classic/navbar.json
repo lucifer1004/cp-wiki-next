@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "CP Wiki",
+    "description": "The title in the navbar"
+  },
+  "item.label.专题": {
+    "message": "Topics",
+    "description": "Navbar item with label 专题"
+  },
+  "item.label.博客": {
+    "message": "Blog",
+    "description": "Navbar item with label 博客"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.基础 | Basics": {
+    "message": "Basics",
+    "description": "Navbar item with label 基础 | Basics"
+  },
+  "item.label.代数 | Algebra": {
+    "message": "Algebra",
+    "description": "Navbar item with label 代数 | Algebra"
+  }
+}

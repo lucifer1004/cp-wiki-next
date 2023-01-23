@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.basicSidebar.category.基础算法": {
+    "message": "基础算法",
+    "description": "The label for category 基础算法 in sidebar basicSidebar"
+  },
+  "sidebar.algebraSidebar.category.代数": {
+    "message": "代数",
+    "description": "The label for category 代数 in sidebar algebraSidebar"
+  }
+}
