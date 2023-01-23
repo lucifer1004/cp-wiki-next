@@ -157,6 +157,24 @@ const config = {
             }
           ]
         },
+        {
+          type: 'dropdown',
+          position: 'left',
+          label: '其他',
+          items: [{
+            type: 'doc',
+            docId: 'tips',
+            label: '小贴士'
+          }, {
+            type: 'doc',
+            docId: 'jargon',
+            label: '黑话'
+          }, {
+            type: 'doc',
+            docId: 'hall-of-fame',
+            label: '名人堂'
+          }]
+        },
         { to: '/blog', label: '博客', position: 'right' },
         {
           type: 'localeDropdown',

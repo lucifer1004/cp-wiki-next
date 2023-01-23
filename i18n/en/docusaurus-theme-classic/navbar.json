@@ -62,5 +62,21 @@
   "item.label.力扣": {
     "message": "LeetCode",
     "description": "Navbar item with label 力扣"
+  },
+  "item.label.其他": {
+    "message": "Others",
+    "description": "Navbar item with label 其他"
+  },
+  "item.label.小贴士": {
+    "message": "Tips",
+    "description": "Navbar item with label 小贴士"
+  },
+  "item.label.黑话": {
+    "message": "Jargon",
+    "description": "Navbar item with label 黑话"
+  },
+  "item.label.名人堂": {
+    "message": "Hall of Fame",
+    "description": "Navbar item with label 名人堂"
   }
 }
