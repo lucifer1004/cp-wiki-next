@@ -11,7 +11,7 @@ export default function Utterances(): JSX.Element {
     utterances.crossOrigin = 'anonymous'
     utterances.src = 'https://utteranc.es/client.js'
     window.document.getElementById('comment').appendChild(utterances)
-  })
+  }, [])
 
   return <div id="comment" />
 }

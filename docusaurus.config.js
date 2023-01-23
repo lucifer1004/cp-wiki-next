@@ -29,6 +29,10 @@ const config = {
     locales: ['zh-Hans', 'en'],
   },
 
+  markdown: {
+    mermaid: true,
+  },
+
   presets: [
     [
       'classic',
@@ -71,8 +75,7 @@ const config = {
     },
   ],
 
-  themes: ['@docusaurus/theme-live-codeblock'],
-
+  themes: ['@docusaurus/theme-mermaid', '@docusaurus/theme-live-codeblock'],
   themeConfig:
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   {
