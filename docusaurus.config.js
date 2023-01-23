@@ -121,6 +121,11 @@ const config = {
               type: 'doc',
               docId: 'geometry',
               label: '计算几何 | Computational Geometry'
+            },
+            {
+              type: 'doc',
+              docId: 'string',
+              label: '字符串 | Strings'
             }
           ],
         },

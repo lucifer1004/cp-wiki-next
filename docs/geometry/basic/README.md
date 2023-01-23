@@ -123,5 +123,3 @@ point3d operator*(ftype a, point3d b) {
 ### 多边形
 
 ### 圆形
-
-<Utterances />

@@ -30,5 +30,9 @@
   "sidebar.geometrySidebar.category.计算几何": {
     "message": "Computational Geometry",
     "description": "The label for category 计算几何 in sidebar geometrySidebar"
+  },
+  "sidebar.stringSidebar.category.字符串": {
+    "message": "Strings",
+    "description": "The label for category 字符串 in sidebar stringSidebar"
   }
 }

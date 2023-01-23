@@ -38,5 +38,9 @@
   "item.label.计算几何 | Computational Geometry": {
     "message": "Computational Geometry",
     "description": "Navbar item with label 计算几何 | Computational Geometry"
+  },
+  "item.label.字符串 | Strings": {
+    "message": "Strings",
+    "description": "Navbar item with label 字符串 | Strings"
   }
 }
