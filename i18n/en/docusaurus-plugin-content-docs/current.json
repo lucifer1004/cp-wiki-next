@@ -42,5 +42,25 @@
   "sidebar.miscSidebar.category.杂项": {
     "message": "Miscellaneous",
     "description": "The label for category 杂项 in sidebar miscSidebar"
+  },
+  "sidebar.codeforcesSidebar.category.CodeForces": {
+    "message": "CodeForces",
+    "description": "The label for category CodeForces in sidebar codeforcesSidebar"
+  },
+  "sidebar.leetcodeSidebar.category.LeetCode": {
+    "message": "LeetCode",
+    "description": "The label for category LeetCode in sidebar leetcodeSidebar"
+  },
+  "sidebar.leetcodeSidebar.category.特殊比赛": {
+    "message": "Special Contests",
+    "description": "The label for category 特殊比赛 in sidebar leetcodeSidebar"
+  },
+  "sidebar.leetcodeSidebar.category.周赛": {
+    "message": "Weekly Contests",
+    "description": "The label for category 周赛 in sidebar leetcodeSidebar"
+  },
+  "sidebar.leetcodeSidebar.category.双周赛": {
+    "message": "Bi-Weekly Contests",
+    "description": "The label for category 双周赛 in sidebar leetcodeSidebar"
   }
 }

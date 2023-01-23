@@ -149,6 +149,11 @@ const config = {
               type: 'doc',
               docId: 'codeforces',
               label: 'Codeforces'
+            },
+            {
+              type: 'doc',
+              docId: 'leetcode',
+              label: '力扣'
             }
           ]
         },

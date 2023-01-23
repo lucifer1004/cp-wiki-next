@@ -54,5 +54,13 @@
   "item.label.题解": {
     "message": "Tutorials",
     "description": "Navbar item with label 题解"
+  },
+  "item.label.Codeforces": {
+    "message": "Codeforces",
+    "description": "Navbar item with label Codeforces"
+  },
+  "item.label.力扣": {
+    "message": "LeetCode",
+    "description": "Navbar item with label 力扣"
   }
 }
