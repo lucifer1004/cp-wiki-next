@@ -12,10 +12,10 @@ import BrowserOnly from '@docusaurus/BrowserOnly';
 import {Adsense} from '@ctrl/react-adsense'
 
 <BrowserOnly>
-  <Adsense
+  {()=><Adsense
       style={{display: "block", textAlign: "center"}}
       layout="in-article"
       format="fluid"
       client="ca-pub-2391425047778930"
-      slot="9967998595" />
+      slot="9967998595" />}
 </BrowserOnly>
