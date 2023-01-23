@@ -38,5 +38,9 @@
   "sidebar.combinatoricsSidebar.category.组合数学": {
     "message": "Combinatorics",
     "description": "The label for category 组合数学 in sidebar combinatoricsSidebar"
+  },
+  "sidebar.miscSidebar.category.杂项": {
+    "message": "Miscellaneous",
+    "description": "The label for category 杂项 in sidebar miscSidebar"
   }
 }

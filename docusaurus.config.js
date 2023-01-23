@@ -131,6 +131,11 @@ const config = {
               type: 'doc',
               docId: 'combinatorics',
               label: '组合数学 | Combinatorics'
+            },
+            {
+              type: 'doc',
+              docId: 'misc',
+              label: '杂项 | Miscellaneous'
             }
           ],
         },

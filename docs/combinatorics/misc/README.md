@@ -17,5 +17,3 @@
 
 所以，本题最后的答案就是${N+M}\choose{N+\sum A_i}$。
 :::
-
-<Utterances />

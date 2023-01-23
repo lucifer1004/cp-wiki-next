@@ -46,5 +46,9 @@
   "item.label.组合数学 | Combinatorics": {
     "message": "Combinatorics",
     "description": "Navbar item with label 组合数学 | Combinatorics"
+  },
+  "item.label.杂项 | Miscellaneous": {
+    "message": "Miscellaneous",
+    "description": "Navbar item with label 杂项 | Miscellaneous"
   }
 }
