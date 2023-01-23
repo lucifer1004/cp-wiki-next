@@ -22,5 +22,9 @@
   "sidebar.graphSidebar.category.图论": {
     "message": "Graph Theory",
     "description": "The label for category 图论 in sidebar graphSidebar"
+  },
+  "sidebar.dpSidebar.category.动态规划": {
+    "message": "Dynamic Programming",
+    "description": "The label for category 动态规划 in sidebar dpSidebar"
   }
 }

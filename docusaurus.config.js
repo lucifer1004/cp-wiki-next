@@ -108,6 +108,11 @@ const config = {
               type: 'doc',
               docId: 'graph',
               label: '图论 | Graph Theory'
+            },
+            {
+              type: 'doc',
+              docId: 'dp',
+              label: '动态规划 | Dynamic Programming'
             }
           ],
         },
