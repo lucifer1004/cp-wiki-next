@@ -42,5 +42,9 @@
   "item.label.字符串 | Strings": {
     "message": "Strings",
     "description": "Navbar item with label 字符串 | Strings"
+  },
+  "item.label.组合数学 | Combinatorics": {
+    "message": "Combinatorics",
+    "description": "Navbar item with label 组合数学 | Combinatorics"
   }
 }

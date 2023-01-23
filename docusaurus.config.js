@@ -126,6 +126,11 @@ const config = {
               type: 'doc',
               docId: 'string',
               label: '字符串 | Strings'
+            },
+            {
+              type: 'doc',
+              docId: 'combinatorics',
+              label: '组合数学 | Combinatorics'
             }
           ],
         },

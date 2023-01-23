@@ -34,5 +34,9 @@
   "sidebar.stringSidebar.category.字符串": {
     "message": "Strings",
     "description": "The label for category 字符串 in sidebar stringSidebar"
+  },
+  "sidebar.combinatoricsSidebar.category.组合数学": {
+    "message": "Combinatorics",
+    "description": "The label for category 组合数学 in sidebar combinatoricsSidebar"
   }
 }
