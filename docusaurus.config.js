@@ -116,6 +116,11 @@ const config = {
               type: 'doc',
               docId: 'dp',
               label: '动态规划 | Dynamic Programming'
+            },
+            {
+              type: 'doc',
+              docId: 'geometry',
+              label: '计算几何 | Computational Geometry'
             }
           ],
         },

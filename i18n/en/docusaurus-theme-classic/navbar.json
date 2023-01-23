@@ -34,5 +34,9 @@
   "item.label.动态规划 | Dynamic Programming": {
     "message": "Dynamic Programming",
     "description": "Navbar item with label 动态规划 | Dynamic Programming"
+  },
+  "item.label.计算几何 | Computational Geometry": {
+    "message": "Computational Geometry",
+    "description": "Navbar item with label 计算几何 | Computational Geometry"
   }
 }

@@ -26,5 +26,9 @@
   "sidebar.dpSidebar.category.动态规划": {
     "message": "Dynamic Programming",
     "description": "The label for category 动态规划 in sidebar dpSidebar"
+  },
+  "sidebar.geometrySidebar.category.计算几何": {
+    "message": "Computational Geometry",
+    "description": "The label for category 计算几何 in sidebar geometrySidebar"
   }
 }
