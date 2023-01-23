@@ -78,5 +78,9 @@
   "sidebar.othersSidebar.category.其他比赛": {
     "message": "Other Contests",
     "description": "The label for category 其他比赛 in sidebar othersSidebar"
+  },
+  "sidebar.uojSidebar.category.UOJ": {
+    "message": "UOJ",
+    "description": "The label for category UOJ in sidebar uojSidebar"
   }
 }

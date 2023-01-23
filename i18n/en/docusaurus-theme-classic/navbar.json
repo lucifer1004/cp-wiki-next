@@ -98,5 +98,9 @@
   "item.label.其他比赛": {
     "message": "Other Contests",
     "description": "Navbar item with label 其他比赛"
+  },
+  "item.label.UOJ": {
+    "message": "UOJ",
+    "description": "Navbar item with label UOJ"
   }
 }
