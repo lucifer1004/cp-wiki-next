@@ -62,5 +62,9 @@
   "sidebar.leetcodeSidebar.category.双周赛": {
     "message": "Bi-Weekly Contests",
     "description": "The label for category 双周赛 in sidebar leetcodeSidebar"
+  },
+  "sidebar.kickstartSidebar.category.Kick Start": {
+    "message": "Kick Start",
+    "description": "The label for category Kick Start in sidebar kickstartSidebar"
   }
 }

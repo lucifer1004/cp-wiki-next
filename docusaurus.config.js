@@ -160,7 +160,17 @@ const config = {
               type: 'doc',
               docId: 'kick-start',
               label: 'Kick Start'
-            }
+            },
+            {
+              type: 'doc',
+              docId: 'project-euler',
+              label: 'Project Euler'
+            },
+            {
+              type: 'doc',
+              docId: 'advent-of-code',
+              label: 'Advent of Code'
+            },
           ]
         },
         {

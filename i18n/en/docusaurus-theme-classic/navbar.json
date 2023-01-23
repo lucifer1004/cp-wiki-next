@@ -78,5 +78,17 @@
   "item.label.名人堂": {
     "message": "Hall of Fame",
     "description": "Navbar item with label 名人堂"
+  },
+  "item.label.Kick Start": {
+    "message": "Kick Start",
+    "description": "Navbar item with label Kick Start"
+  },
+  "item.label.Project Euler": {
+    "message": "Project Euler",
+    "description": "Navbar item with label Project Euler"
+  },
+  "item.label.Advent of Code": {
+    "message": "Advent of Code",
+    "description": "Navbar item with label Advent of Code"
   }
 }
