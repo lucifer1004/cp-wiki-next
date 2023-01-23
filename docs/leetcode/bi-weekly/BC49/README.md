@@ -1,4 +1,4 @@
-# Leetcode 第49场双周赛题解
+# Leetcode 第49场双周赛
 
 ## Problem A - [判断国际象棋棋盘中一个格子的颜色](https://leetcode.cn/problems/determine-color-of-a-chessboard-square/)
 

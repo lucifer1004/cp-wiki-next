@@ -1,4 +1,4 @@
-# Leetcode 第293场周赛题解
+# Leetcode 第293场周赛
 
 ## Problem A - [移除字母异位词后的结果数组](https://leetcode.cn/problems/find-resultant-array-after-removing-anagrams/)
 

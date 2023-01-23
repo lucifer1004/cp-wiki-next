@@ -1,4 +1,4 @@
-# Leetcode 第65场双周赛题解
+# Leetcode 第65场双周赛
 
 ## Problem A - [检查两个字符串是否几乎相等](https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/)
 

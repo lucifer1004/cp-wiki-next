@@ -1,4 +1,4 @@
-# Leetcode 第199场周赛题解
+# Leetcode 第199场周赛
 
 ## Problem A - [重新排列字符串](https://leetcode.cn/problems/shuffle-string/)
 

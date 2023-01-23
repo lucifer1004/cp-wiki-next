@@ -66,5 +66,17 @@
   "sidebar.kickstartSidebar.category.Kick Start": {
     "message": "Kick Start",
     "description": "The label for category Kick Start in sidebar kickstartSidebar"
+  },
+  "sidebar.atcoderSidebar.category.AtCoder": {
+    "message": "AtCoder",
+    "description": "The label for category AtCoder in sidebar atcoderSidebar"
+  },
+  "sidebar.adventOfCodeSidebar.category.Advent of Code": {
+    "message": "Advent of Code",
+    "description": "The label for category Advent of Code in sidebar adventOfCodeSidebar"
+  },
+  "sidebar.othersSidebar.category.其他比赛": {
+    "message": "Other Contests",
+    "description": "The label for category 其他比赛 in sidebar othersSidebar"
   }
 }

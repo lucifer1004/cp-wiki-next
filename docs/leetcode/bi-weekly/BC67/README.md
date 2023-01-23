@@ -1,4 +1,4 @@
-# Leetcode 第67场双周赛题解
+# Leetcode 第67场双周赛
 
 ## Problem A - [找到和最大的长度为 K 的子序列](https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第37场双周赛题解
+# Leetcode 第37场双周赛
 
 ## Problem A - [删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)
 

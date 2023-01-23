@@ -1,4 +1,4 @@
-# Leetcode 第230场周赛题解
+# Leetcode 第230场周赛
 
 ## Problem A - [统计匹配检索规则的物品数量](https://leetcode.cn/problems/count-items-matching-a-rule/)
 

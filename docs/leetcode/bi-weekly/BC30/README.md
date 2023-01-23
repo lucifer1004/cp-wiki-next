@@ -1,4 +1,4 @@
-# Leetcode 第30场双周赛题解
+# Leetcode 第30场双周赛
 
 ## Problem A - [转变日期格式](https://leetcode.cn/problems/reformat-date/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第211场周赛题解
+# Leetcode 第211场周赛
 
 ## Problem A - [两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)
 

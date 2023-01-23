@@ -1,4 +1,4 @@
-# Leetcode 第229场周赛题解
+# Leetcode 第229场周赛
 
 ## Problem A - [交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately/)
 

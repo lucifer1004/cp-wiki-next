@@ -1,4 +1,4 @@
-# 2022春中国银联专场竞赛题解
+# 2022 春中国银联专场竞赛
 
 ## Problem A - [回文链表](https://leetcode.cn/contest/cnunionpay-2022spring/problems/D7rekZ/)
 

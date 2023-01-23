@@ -1,4 +1,4 @@
-# Leetcode 第270场周赛题解
+# Leetcode 第270场周赛
 
 ## Problem A - [找出 3 位偶数](https://leetcode.cn/problems/finding-3-digit-even-numbers/)
 

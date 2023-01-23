@@ -1,4 +1,4 @@
-# Leetcode 第36场双周赛题解
+# Leetcode 第36场双周赛
 
 ## Problem A - [设计停车系统](https://leetcode.cn/problems/design-parking-system/)
 

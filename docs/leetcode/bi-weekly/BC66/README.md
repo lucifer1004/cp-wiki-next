@@ -1,4 +1,4 @@
-# Leetcode 第66场双周赛题解
+# Leetcode 第66场双周赛
 
 ## Problem A - [统计出现过一次的公共字符串](https://leetcode.cn/problems/count-common-words-with-one-occurrence/)
 

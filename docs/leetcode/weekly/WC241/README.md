@@ -1,4 +1,4 @@
-# Leetcode 第241场周赛题解
+# Leetcode 第241场周赛
 
 ## Problem A - [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/)
 

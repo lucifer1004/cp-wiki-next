@@ -1,4 +1,4 @@
-# Leetcode 第242场周赛题解
+# Leetcode 第242场周赛
 
 ## Problem A - [哪种连续子字符串更长](https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/)
 

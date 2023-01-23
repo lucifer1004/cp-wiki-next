@@ -1,4 +1,4 @@
-# Leetcode 第29场双周赛题解
+# Leetcode 第29场双周赛
 
 ## Problem A - [去掉最低工资和最高工资后的工资平均值](https://leetcode.cn/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 

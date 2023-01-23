@@ -1,4 +1,4 @@
-# Leetcode 第75场双周赛题解
+# Leetcode 第75场双周赛
 
 ## Problem A - [转换数字的最少位翻转次数](https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/)
 

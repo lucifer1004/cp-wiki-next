@@ -1,4 +1,4 @@
-# Leetcode 第299场周赛题解
+# Leetcode 第299场周赛
 
 ## Problem A - [判断矩阵是否是一个 X 矩阵](https://leetcode.cn/problems/check-if-matrix-is-x-matrix/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第303场周赛题解
+# Leetcode 第303场周赛
 
 ## Problem A - [第一个出现两次的字母](https://leetcode.cn/problems/first-letter-to-appear-twice/)
 

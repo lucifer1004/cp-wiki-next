@@ -1,4 +1,4 @@
-# Leetcode 第210场周赛题解
+# Leetcode 第210场周赛
 
 ## Problem A - [括号的最大嵌套深度](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/)
 

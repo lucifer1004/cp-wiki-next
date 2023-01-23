@@ -1,4 +1,4 @@
-# Leetcode 第236场周赛题解
+# Leetcode 第236场周赛
 
 ## Problem A - [数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)
 

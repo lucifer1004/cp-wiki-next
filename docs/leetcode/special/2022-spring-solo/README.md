@@ -1,4 +1,4 @@
-# 2022年力扣杯春季赛个人赛题解
+# 2022 年力扣杯春季赛个人赛
 
 ## Problem A - [宝石补给](https://leetcode.cn/contest/season/2022-spring/problems/WHnhjV/)
 

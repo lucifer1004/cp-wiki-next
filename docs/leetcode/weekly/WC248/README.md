@@ -1,4 +1,4 @@
-# Leetcode 第248场周赛题解
+# Leetcode 第248场周赛
 
 ## Problem A - [基于排列构建数组](https://leetcode.cn/problems/build-array-from-permutation/)
 

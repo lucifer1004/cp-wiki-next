@@ -1,4 +1,4 @@
-# Leetcode 第72场双周赛题解
+# Leetcode 第72场双周赛
 
 ## Problem A - [统计数组中相等且可以被整除的数对](https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/)
 

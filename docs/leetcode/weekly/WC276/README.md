@@ -1,4 +1,4 @@
-# Leetcode 第276场周赛题解
+# Leetcode 第276场周赛
 
 ## Problem A - [将字符串拆分为若干长度为 k 的组](https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/)
 

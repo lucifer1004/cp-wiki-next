@@ -1,4 +1,4 @@
-# Leetcode 第235场周赛题解
+# Leetcode 第235场周赛
 
 ## Problem A - [截断句子](https://leetcode.cn/problems/truncate-sentence/)
 

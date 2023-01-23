@@ -1,4 +1,4 @@
-# Leetcode 第195场周赛题解
+# Leetcode 第195场周赛
 
 ## Problem A - [判断路径是否相交](https://leetcode.cn/problems/path-crossing/)
 

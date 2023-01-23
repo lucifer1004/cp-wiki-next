@@ -1,4 +1,4 @@
-# Leetcode 第298场周赛题解
+# Leetcode 第298场周赛
 
 ## Problem A - [兼具大小写的最好英文字母](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)
 

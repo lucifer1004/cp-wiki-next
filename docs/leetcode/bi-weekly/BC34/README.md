@@ -1,4 +1,4 @@
-# Leetcode 第34场双周赛题解
+# Leetcode 第34场双周赛
 
 ## Problem A - [矩阵对角线元素的和](https://leetcode.cn/problems/matrix-diagonal-sum/)
 

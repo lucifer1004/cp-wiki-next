@@ -1,4 +1,4 @@
-# Leetcode 第39场双周赛题解
+# Leetcode 第39场双周赛
 
 ## Problem A - [拆炸弹](https://leetcode.cn/problems/defuse-the-bomb/)
 

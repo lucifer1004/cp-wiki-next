@@ -1,4 +1,4 @@
-# Leetcode 第271场周赛题解
+# Leetcode 第271场周赛
 
 ## Problem A - [环和杆](https://leetcode.cn/problems/rings-and-rods/)
 

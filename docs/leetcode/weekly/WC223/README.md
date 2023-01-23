@@ -1,4 +1,4 @@
-# Leetcode 第223场周赛题解
+# Leetcode 第223场周赛
 
 ## Problem A - [解码异或后的数组](https://leetcode.cn/problems/decode-xored-array/)
 

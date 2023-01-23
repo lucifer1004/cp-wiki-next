@@ -1,4 +1,4 @@
-# Leetcode 第302场周赛题解
+# Leetcode 第302场周赛
 
 ## Problem A - [数组能形成多少数对](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/)
 

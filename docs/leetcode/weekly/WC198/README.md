@@ -1,4 +1,4 @@
-# Leetcode 第198场周赛题解
+# Leetcode 第198场周赛
 
 ## Problem A - [换酒问题](https://leetcode.cn/problems/water-bottles/)
 

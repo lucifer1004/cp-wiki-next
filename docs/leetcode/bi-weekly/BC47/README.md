@@ -1,4 +1,4 @@
-# Leetcode 第47场双周赛题解
+# Leetcode 第47场双周赛
 
 - [视频题解-Bilibili](https://www.bilibili.com/video/BV12p4y1H72G/)
 - [实况录像-Bilibili](https://www.bilibili.com/video/BV1CV411v7Tt/)

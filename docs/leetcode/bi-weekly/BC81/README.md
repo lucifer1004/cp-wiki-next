@@ -1,4 +1,4 @@
-# Leetcode 第81场双周赛题解
+# Leetcode 第81场双周赛
 
 ## Problem A - [统计星号](https://leetcode.cn/problems/count-asterisks/)
 

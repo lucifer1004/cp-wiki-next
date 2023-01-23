@@ -1,4 +1,4 @@
-# Leetcode 第74场双周赛题解
+# Leetcode 第74场双周赛
 
 ## Problem A - [将数组划分成相等数对](https://leetcode.cn/problems/divide-array-into-equal-pairs/)
 

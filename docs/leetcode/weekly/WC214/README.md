@@ -1,4 +1,4 @@
-# Leetcode 第214场周赛题解
+# Leetcode 第214场周赛
 
 ## Problem A - [获取生成数组中的最大值](https://leetcode.cn/problems/get-maximum-in-generated-array/)
 

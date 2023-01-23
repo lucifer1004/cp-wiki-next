@@ -1,4 +1,4 @@
-# Leetcode 第206场周赛题解
+# Leetcode 第206场周赛
 
 ## Problem A - [二进制矩阵中的特殊位置](https://leetcode.cn/problems/special-positions-in-a-binary-matrix/)
 

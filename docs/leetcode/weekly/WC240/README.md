@@ -1,4 +1,4 @@
-# Leetcode 第240场周赛题解
+# Leetcode 第240场周赛
 
 ## Problem A - [人口最多的年份](https://leetcode.cn/problems/maximum-population-year/)
 

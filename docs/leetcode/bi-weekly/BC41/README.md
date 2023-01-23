@@ -1,4 +1,4 @@
-# Leetcode 第41场双周赛题解
+# Leetcode 第41场双周赛
 
 ## Problem A - [统计一致字符串的数目](https://leetcode.cn/problems/count-the-number-of-consistent-strings/)
 

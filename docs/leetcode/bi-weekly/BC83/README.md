@@ -1,4 +1,4 @@
-# Leetcode 第83场双周赛题解
+# Leetcode 第83场双周赛
 
 ## Problem A - [最好的扑克手牌](https://leetcode.cn/problems/best-poker-hand/)
 

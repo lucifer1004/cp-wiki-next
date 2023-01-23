@@ -1,4 +1,4 @@
-# Leetcode 第80场双周赛题解
+# Leetcode 第80场双周赛
 
 ## Problem A - [强密码检验器 II](https://leetcode.cn/problems/strong-password-checker-ii/)
 

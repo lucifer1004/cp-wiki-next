@@ -1,4 +1,4 @@
-# Leetcode 第227场周赛题解
+# Leetcode 第227场周赛
 
 ## Problem A - [检查数组是否经排序和轮转得到](https://leetcode.cn/problems/check-if-array-is-sorted-and-rotated/)
 

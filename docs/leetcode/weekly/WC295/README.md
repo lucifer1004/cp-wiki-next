@@ -1,4 +1,4 @@
-# Leetcode 第295场周赛题解
+# Leetcode 第295场周赛
 
 ## Problem A - [重排字符形成目标字符串](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/)
 

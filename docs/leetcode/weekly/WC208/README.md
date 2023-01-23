@@ -1,4 +1,4 @@
-# Leetcode 第208场周赛题解
+# Leetcode 第208场周赛
 
 ## Problem A - [文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder/)
 

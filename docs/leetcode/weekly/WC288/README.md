@@ -1,4 +1,4 @@
-# Leetcode 第288场周赛题解
+# Leetcode 第288场周赛
 
 ## Problem A - [按奇偶性交换后的最大数字](https://leetcode.cn/problems/largest-number-after-digit-swaps-by-parity/)
 

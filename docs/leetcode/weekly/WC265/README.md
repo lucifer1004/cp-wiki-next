@@ -1,4 +1,4 @@
-# Leetcode 第265场周赛题解
+# Leetcode 第265场周赛
 
 ## Problem A - [值相等的最小索引](https://leetcode.cn/problems/smallest-index-with-equal-value/)
 

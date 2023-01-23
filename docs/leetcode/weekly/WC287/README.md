@@ -1,4 +1,4 @@
-# Leetcode 第287场周赛题解
+# Leetcode 第287场周赛
 
 ## Problem A - [转化时间需要的最少操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第197场周赛题解
+# Leetcode 第197场周赛
 
 ## Problem A - [好数对的数目](https://leetcode.cn/problems/number-of-good-pairs/)
 

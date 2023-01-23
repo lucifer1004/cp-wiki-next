@@ -1,4 +1,4 @@
-# Leetcode 第244场周赛题解
+# Leetcode 第244场周赛
 
 ## Problem A - [判断矩阵经轮转后是否一致](https://leetcode.cn/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 

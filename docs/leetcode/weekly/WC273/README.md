@@ -1,4 +1,4 @@
-# Leetcode 第273场周赛题解
+# Leetcode 第273场周赛
 
 ## Problem A - [反转两次的数字](https://leetcode.cn/contest/problems/a-number-after-a-double-reversal/)
 

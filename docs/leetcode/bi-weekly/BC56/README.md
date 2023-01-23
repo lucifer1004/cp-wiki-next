@@ -1,4 +1,4 @@
-# Leetcode 第56场双周赛题解
+# Leetcode 第56场双周赛
 
 ## Problem A - [统计平方和三元组的数目](https://leetcode.cn/problems/count-square-sum-triples/)
 

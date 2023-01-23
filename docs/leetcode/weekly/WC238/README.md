@@ -1,4 +1,4 @@
-# Leetcode 第238场周赛题解
+# Leetcode 第238场周赛
 
 ## Problem A - [K 进制表示下的各位数字总和](https://leetcode.cn/contest/weekly-contest-238/problems/sum-of-digits-in-base-k/)
 

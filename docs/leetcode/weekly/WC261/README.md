@@ -1,4 +1,4 @@
-# Leetcode 第261场周赛题解
+# Leetcode 第261场周赛
 
 ## Problem A - [转换字符串的最少操作次数](https://leetcode.cn/problems/minimum-moves-to-convert-string/)
 

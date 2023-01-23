@@ -1,4 +1,4 @@
-# Leetcode 第237场周赛题解
+# Leetcode 第237场周赛
 
 ## Problem A - [判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)
 

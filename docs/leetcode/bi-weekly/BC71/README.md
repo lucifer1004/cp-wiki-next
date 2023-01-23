@@ -1,4 +1,4 @@
-# Leetcode 第71场双周赛题解
+# Leetcode 第71场双周赛
 
 ## Problem A - [拆分数位后四位数字的最小和](https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
 

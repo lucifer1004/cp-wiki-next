@@ -1,4 +1,4 @@
-# Leetcode 第254场周赛题解
+# Leetcode 第254场周赛
 
 ## Problem A - [作为子字符串出现在单词中的字符串数目](https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/)
 

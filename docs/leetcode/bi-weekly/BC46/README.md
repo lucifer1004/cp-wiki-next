@@ -1,3 +1,3 @@
-# Leetcode 第46场双周赛题解
+# Leetcode 第46场双周赛
 
 待补。

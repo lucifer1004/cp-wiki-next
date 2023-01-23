@@ -1,4 +1,4 @@
-# Leetcode 第263场周赛题解
+# Leetcode 第263场周赛
 
 ## Problem A - [检查句子中的数字是否递增](https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/)
 

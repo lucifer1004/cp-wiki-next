@@ -1,4 +1,4 @@
-# Leetcode 第284场周赛题解
+# Leetcode 第284场周赛
 
 ## Problem A - [找出数组中的所有 K 近邻下标](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/)
 

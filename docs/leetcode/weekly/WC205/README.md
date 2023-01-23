@@ -1,4 +1,4 @@
-# Leetcode 第205场周赛题解
+# Leetcode 第205场周赛
 
 ## Problem A - [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)
 

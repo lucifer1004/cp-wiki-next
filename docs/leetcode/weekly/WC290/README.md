@@ -1,4 +1,4 @@
-# Leetcode 第290场周赛题解
+# Leetcode 第290场周赛
 
 ## Problem A - [多个数组求交集](https://leetcode.cn/problems/intersection-of-multiple-arrays/)
 

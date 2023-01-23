@@ -1,4 +1,4 @@
-# Leetcode 第249场周赛题解
+# Leetcode 第249场周赛
 
 ## Problem A - [数组串联](https://leetcode.cn/problems/concatenation-of-array/)
 

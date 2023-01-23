@@ -1,4 +1,4 @@
-# Leetcode 第213场周赛题解
+# Leetcode 第213场周赛
 
 ## Problem A - [能否连接形成数组](https://leetcode.cn/problems/check-array-formation-through-concatenation/)
 

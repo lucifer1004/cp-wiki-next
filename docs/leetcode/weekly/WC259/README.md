@@ -1,4 +1,4 @@
-# Leetcode 第259场周赛题解
+# Leetcode 第259场周赛
 
 ## Problem A - [执行操作后的变量值](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第296场周赛题解
+# Leetcode 第296场周赛
 
 ## Problem A - [极大极小游戏](https://leetcode.cn/problems/min-max-game/)
 

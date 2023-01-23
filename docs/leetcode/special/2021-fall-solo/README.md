@@ -1,4 +1,4 @@
-# 2021年力扣杯秋季赛个人赛题解
+# 2021 年力扣杯秋季赛个人赛
 
 ## Problem A - [无人机方阵](https://leetcode.cn/contest/season/2021-fall/problems/0jQkd0/)
 

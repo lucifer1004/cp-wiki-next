@@ -1,4 +1,4 @@
-# Leetcode 第239场周赛题解
+# Leetcode 第239场周赛
 
 ## Problem A - [到目标元素的最小距离](https://leetcode.cn/problems/minimum-distance-to-the-target-element/)
 

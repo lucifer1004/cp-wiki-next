@@ -1,4 +1,4 @@
-# Leetcode 第200场周赛题解
+# Leetcode 第200场周赛
 
 ## Problem A - [统计好三元组](https://leetcode.cn/problems/count-good-triplets/)
 

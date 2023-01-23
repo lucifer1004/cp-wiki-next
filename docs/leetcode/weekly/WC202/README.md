@@ -1,4 +1,4 @@
-# Leetcode 第202场周赛题解
+# Leetcode 第202场周赛
 
 ## Problem A - [存在连续三个奇数的数组](https://leetcode.cn/problems/three-consecutive-odds/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第279场周赛题解
+# Leetcode 第279场周赛
 
 ## Problem A - [对奇偶下标分别排序](https://leetcode.cn/problems/sort-even-and-odd-indices-independently/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第33场双周赛题解
+# Leetcode 第33场双周赛
 
 ## Problem A - [千位分隔数](https://leetcode.cn/problems/thousand-separator/)
 

@@ -153,6 +153,11 @@ const config = {
             },
             {
               type: 'doc',
+              docId: 'atcoder',
+              label: 'AtCoder'
+            },
+            {
+              type: 'doc',
               docId: 'leetcode',
               label: '力扣'
             },
@@ -171,6 +176,16 @@ const config = {
               docId: 'advent-of-code',
               label: 'Advent of Code'
             },
+            {
+              type: 'doc',
+              docId: 'uoj',
+              label: "UOJ",
+            },
+            {
+              type: 'doc',
+              docId: 'others/HC2020-R2/README',
+              label: '其他比赛'
+            }
           ]
         },
         {

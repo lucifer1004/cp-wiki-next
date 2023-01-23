@@ -1,4 +1,4 @@
-# Leetcode 第267场周赛题解
+# Leetcode 第267场周赛
 
 ## Problem A - [买票需要的时间](https://leetcode.cn/problems/time-needed-to-buy-tickets/)
 

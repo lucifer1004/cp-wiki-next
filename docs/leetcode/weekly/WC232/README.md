@@ -1,4 +1,4 @@
-# Leetcode 第232场周赛题解
+# Leetcode 第232场周赛
 
 ## Problem A - [仅执行一次字符串交换能否使两个字符串相等](https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/)
 

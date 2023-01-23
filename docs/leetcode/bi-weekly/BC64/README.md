@@ -1,4 +1,4 @@
-# Leetcode 第64场双周赛题解
+# Leetcode 第64场双周赛
 
 ## Problem A - [数组中第 K 个独一无二的字符串](https://leetcode.cn/problems/kth-distinct-string-in-an-array/)
 

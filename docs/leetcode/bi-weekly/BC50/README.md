@@ -1,4 +1,4 @@
-# Leetcode 第50场双周赛题解
+# Leetcode 第50场双周赛
 
 ## Problem A - [最少操作使数组递增](https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/)
 

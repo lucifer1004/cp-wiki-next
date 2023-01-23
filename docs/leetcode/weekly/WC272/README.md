@@ -1,4 +1,4 @@
-# Leetcode 第272场周赛题解
+# Leetcode 第272场周赛
 
 ## Problem A - [找出数组中的第一个回文字符串](https://leetcode.cn/problems/find-first-palindromic-string-in-the-array/)
 

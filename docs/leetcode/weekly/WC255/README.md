@@ -1,4 +1,4 @@
-# Leetcode 第255场周赛题解
+# Leetcode 第255场周赛
 
 ## Problem A - [找出数组的最大公约数](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第63场双周赛题解
+# Leetcode 第63场双周赛
 
 ## Problem A - [使每位学生都有座位的最少移动次数](https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/)
 

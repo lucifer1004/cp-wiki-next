@@ -1,4 +1,4 @@
-# Leetcode 第203场周赛题解
+# Leetcode 第203场周赛
 
 ## Problem A - [圆形赛道上经过次数最多的扇区](https://leetcode.cn/problems/most-visited-sector-in-a-circular-track/)
 

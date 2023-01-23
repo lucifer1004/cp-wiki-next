@@ -1,4 +1,4 @@
-# Leetcode 第329场周赛题解
+# Leetcode 第329场周赛
 
 ## Problem A - [交替数字和](https://leetcode.cn/contest/weekly-contest-329/problems/alternating-digit-sum/)
 

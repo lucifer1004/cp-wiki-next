@@ -1,4 +1,4 @@
-# Leetcode 第297场周赛题解
+# Leetcode 第297场周赛
 
 ## Problem A - [计算应缴税款总额](https://leetcode.cn/problems/calculate-amount-paid-in-taxes/)
 

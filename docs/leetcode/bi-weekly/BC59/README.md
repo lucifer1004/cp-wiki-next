@@ -1,4 +1,4 @@
-# Leetcode 第59场双周赛题解
+# Leetcode 第59场双周赛
 
 ## Problem A - [使用特殊打字机键入单词的最少时间](https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/)
 

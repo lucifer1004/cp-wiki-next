@@ -1,4 +1,4 @@
-# Leetcode 第201场周赛题解
+# Leetcode 第201场周赛
 
 ## Problem A -  [整理字符串](https://leetcode.cn/problems/make-the-string-great/)
 

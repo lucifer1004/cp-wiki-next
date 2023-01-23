@@ -1,4 +1,4 @@
-# Leetcode 第207场周赛题解
+# Leetcode 第207场周赛
 
 ## Problem A - [重新排列单词间的空格](https://leetcode.cn/problems/rearrange-spaces-between-words/)
 
