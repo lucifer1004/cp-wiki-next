@@ -155,6 +155,11 @@ const config = {
               type: 'doc',
               docId: 'leetcode',
               label: '力扣'
+            },
+            {
+              type: 'doc',
+              docId: 'kick-start',
+              label: 'Kick Start'
             }
           ]
         },
