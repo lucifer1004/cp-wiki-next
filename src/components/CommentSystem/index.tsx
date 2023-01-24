@@ -5,13 +5,14 @@ import React from "react";
 export default function CommentSystem(): JSX.Element {
   return (
     <>
+      <hr />
       <Giscus
         id="comments"
         repo="lucifer1004/cp-wiki-next"
         repoId="R_kgDOI0xGOQ"
         category="Announcements"
         categoryId="DIC_kwDOI0xGOc4CTxUn"
-        mapping="og:title"
+        mapping="pathname"
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="top"
