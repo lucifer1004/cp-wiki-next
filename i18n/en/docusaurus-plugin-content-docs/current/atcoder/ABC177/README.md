@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 177 Tutorial
+# AtCoder Beginner Contest 177
 
 ## Problem A - [Don't be late](https://atcoder.jp/contests/abc177/tasks/abc177_a)
 

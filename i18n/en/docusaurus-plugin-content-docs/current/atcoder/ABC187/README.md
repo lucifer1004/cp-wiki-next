@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 187 Editorial
+# AtCoder Beginner Contest 187
 
 [Video Editorial](https://www.youtube.com/watch?v=pcPlZAiC3HY)
 

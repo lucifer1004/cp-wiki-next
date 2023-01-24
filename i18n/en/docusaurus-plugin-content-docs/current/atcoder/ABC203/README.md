@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 203 Editorial
+# AtCoder Beginner Contest 203
 
 ## Problem A -  [Chinchirorin](https://atcoder.jp/contests/abc203/tasks/abc203_a)
 

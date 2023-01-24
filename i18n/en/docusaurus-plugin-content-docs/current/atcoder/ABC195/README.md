@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 195 Editorial
+# AtCoder Beginner Contest 195
 
 ## Problem A -  [Health M Death](https://atcoder.jp/contests/abc195/tasks/abc195_a)
 

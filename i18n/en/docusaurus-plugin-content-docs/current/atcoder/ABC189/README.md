@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 189 Editorial
+# AtCoder Beginner Contest 189
 
 ## Problem A -  [Slot](https://atcoder.jp/contests/abc189/tasks/abc189_a)
 

@@ -1,4 +1,4 @@
-# Google Kick Start 2021 Round B Tutorial
+# Google Kick Start 2021 Round B
 
 Here are my solutions to Google Kick Start 2021 Round B. Some of them (C & D) are not optimal, albeit they passed all the test cases.
 

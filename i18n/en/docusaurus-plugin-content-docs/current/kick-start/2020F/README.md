@@ -1,4 +1,4 @@
-# Google Kick Start 2020 Round F Tutorial
+# Google Kick Start 2020 Round F
 
 ## Problem A - [ATM Queue](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4ed8)
 

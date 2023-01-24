@@ -1,4 +1,4 @@
-# Google Kick Start 2022 Round A Tutorial
+# Google Kick Start 2022 Round A
 
 Here are my solutions to Google Kick Start 2022 Round A.
 

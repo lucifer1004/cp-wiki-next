@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 182 Tutorial
+# AtCoder Beginner Contest 182
 
 ## Problem A - [twiblr](https://atcoder.jp/contests/abc182/tasks/abc182_a)
 

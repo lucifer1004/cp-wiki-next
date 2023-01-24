@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 176 Tutorial
+# AtCoder Beginner Contest 176
 
 ## Problem A - [Takoyaki](https://atcoder.jp/contests/abc176/tasks/abc176_a)
 

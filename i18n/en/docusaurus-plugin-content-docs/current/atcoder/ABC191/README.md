@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 191 Editorial
+# AtCoder Beginner Contest 191
 
 ## Problem A -  [Vanishing Pitch](https://atcoder.jp/contests/abc191/tasks/abc191_a)
 

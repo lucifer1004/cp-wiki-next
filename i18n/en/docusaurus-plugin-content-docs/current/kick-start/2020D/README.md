@@ -1,4 +1,4 @@
-# Google Kick Start 2020 Round D Tutorial
+# Google Kick Start 2020 Round D
 
 [Problems](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08)
 

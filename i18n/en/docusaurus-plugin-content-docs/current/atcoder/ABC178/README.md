@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 178 Tutorial
+# AtCoder Beginner Contest 178
 
 ## Problem A - [Not](https://atcoder.jp/contests/abc178/tasks/abc178_a)
 

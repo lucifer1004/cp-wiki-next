@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 185 Tutorial
+# AtCoder Beginner Contest 185
 
 See the [Video Tutorial](https://www.youtube.com/watch?v=sq-A_1kBvPQ).
 

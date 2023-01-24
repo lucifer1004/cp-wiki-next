@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 179 Tutorial
+# AtCoder Beginner Contest 179
 
 ## Problem A - [Plural Form](https://atcoder.jp/contests/abc179/tasks/abc179_a)
 

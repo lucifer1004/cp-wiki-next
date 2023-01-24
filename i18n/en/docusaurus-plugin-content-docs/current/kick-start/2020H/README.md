@@ -1,4 +1,4 @@
-# Google Kick Start 2020 Round H Tutorial
+# Google Kick Start 2020 Round H
 
 ## Problem A - [Retype](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7)
 
