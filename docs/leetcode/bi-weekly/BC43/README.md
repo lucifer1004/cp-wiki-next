@@ -63,6 +63,7 @@ class Solution {
 :::details参考代码（JavaScript）
 
 ```js
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 var maximumGain = function(s, x, y) {
     const a = s.split('').map(c => {
         if (x > y || (c != 'a' && c != 'b'))

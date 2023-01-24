@@ -1,21 +1,19 @@
-import React from 'react';
-import Admonition from '@theme-original/Admonition';
+import Admonition from "@theme-original/Admonition";
+import React from "react";
 
 export default function AdmonitionWrapper(props) {
-  if (props.type === 'details') {
+  if (props.type === "details") {
     return (
-      <details style={
-        {
-          marginBottom: '1rem',
-        }
-      }>
+      <details
+        style={{
+          marginBottom: "1rem",
+        }}
+      >
         <summary>{props.title}</summary>
         {props.children}
-      </details >
+      </details>
     );
   } else {
-    return (
-      <Admonition {...props} />
-    );
+    return <Admonition {...props} />;
   }
 }
