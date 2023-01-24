@@ -88,7 +88,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N)$ 。
 - 空间复杂度 $\mathcal{O}(N)$ 。
 
-::::details 参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #include <atcoder/lazysegtree>
@@ -130,8 +130,8 @@ class Solution {
 };
 ```
 
-:::caution 注意
-代码中使用了 [AtCoder Library](https://github.com/atcoder/ac-library) 的懒标记线段树，需要使用 [expander.py](https://github.com/atcoder/ac-library/blob/master/expander.py) 展开后才能在 LeetCode 上运行。
 :::
 
-::::
+:::caution 注意
+上面的代码中使用了 [AtCoder Library](https://github.com/atcoder/ac-library) 的懒标记线段树，需要使用 [expander.py](https://github.com/atcoder/ac-library/blob/master/expander.py) 展开后才能在 LeetCode 上运行。
+:::
