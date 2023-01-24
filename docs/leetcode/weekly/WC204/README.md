@@ -1,4 +1,4 @@
-# Leetcode 第204场周赛
+# 第 204 场周赛
 
 ## Problem A - [重复至少 K 次且长度为 M 的模式](https://leetcode.cn/problems/detect-pattern-of-length-m-repeated-k-or-more-times/)
 

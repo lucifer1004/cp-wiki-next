@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "scripts"
+version = "0.0.0"
+description = "Helper scripts for CP Wiki"
+authors = ["Gabriel Wu <wuzihua@pku.edu.cn>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Jinja2 = "^3.1.2"
+pypinyin = "^0.48.0"
+pychalk = "^2.0.1"
+beautifulsoup4 = "^4.11.1"
+requests = "^2.28.2"
+requests-html = "^0.10.0"
+selenium = "^4.8.0"
+
+[tool.poetry.dev-dependencies]
+autopep8 = "^2.0.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

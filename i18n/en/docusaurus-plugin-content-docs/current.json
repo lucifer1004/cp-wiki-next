@@ -47,9 +47,9 @@
     "message": "CodeForces",
     "description": "The label for category CodeForces in sidebar codeforcesSidebar"
   },
-  "sidebar.leetcodeSidebar.category.LeetCode": {
+  "sidebar.leetcodeSidebar.category.力扣": {
     "message": "LeetCode",
-    "description": "The label for category LeetCode in sidebar leetcodeSidebar"
+    "description": "The label for category 力扣 in sidebar leetcodeSidebar"
   },
   "sidebar.leetcodeSidebar.category.特殊比赛": {
     "message": "Special Contests",

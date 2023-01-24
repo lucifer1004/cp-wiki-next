@@ -1,4 +1,4 @@
-# Leetcode 第231场周赛
+# 第 231 场周赛
 
 ## Problem A - [检查二进制字符串字段](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 

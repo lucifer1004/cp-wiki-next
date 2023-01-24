@@ -1,4 +1,4 @@
-# Leetcode 第289场周赛
+# 第 289 场周赛
 
 ## Problem A - [计算字符串的数字和](https://leetcode.cn/problems/calculate-digit-sum-of-a-string/)
 

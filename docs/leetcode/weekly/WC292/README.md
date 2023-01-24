@@ -1,4 +1,4 @@
-# Leetcode 第292场周赛
+# 第 292 场周赛
 
 ## Problem A - [字符串中最大的 3 位相同数字](https://leetcode.cn/problems/largest-3-same-digit-number-in-string/)
 

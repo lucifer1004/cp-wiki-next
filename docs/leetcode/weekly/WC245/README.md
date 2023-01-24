@@ -1,4 +1,4 @@
-# Leetcode 第245场周赛
+# 第 245 场周赛
 
 ## Problem A - [重新分配字符使所有字符串都相等](https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/)
 

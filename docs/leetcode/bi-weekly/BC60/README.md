@@ -1,4 +1,4 @@
-# Leetcode 第60场双周赛
+# 第 60 场双周赛
 
 ## Problem A - [找到数组的中间位置](https://leetcode.cn/problems/find-the-middle-index-in-array/)
 

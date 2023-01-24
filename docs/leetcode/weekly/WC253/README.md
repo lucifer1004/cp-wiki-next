@@ -1,4 +1,4 @@
-# Leetcode 第253场周赛
+# 第 253 场周赛
 
 ## Problem A - [检查字符串是否为数组前缀](https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/)
 

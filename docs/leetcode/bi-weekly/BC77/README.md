@@ -1,4 +1,4 @@
-# Leetcode 第77场双周赛
+# 第 77 场双周赛
 
 ## Problem A - [统计是给定字符串前缀的字符串数目](https://leetcode.cn/problems/count-prefixes-of-a-given-string/)
 

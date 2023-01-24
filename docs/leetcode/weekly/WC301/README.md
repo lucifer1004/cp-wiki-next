@@ -1,4 +1,4 @@
-# Leetcode 第301场周赛
+# 第 301 场周赛
 
 ## Problem A - [装满杯子需要的最短总时长](https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups/)
 

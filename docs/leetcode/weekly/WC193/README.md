@@ -1,4 +1,4 @@
-# Leetcode 第193场周赛
+# 第 193 场周赛
 
 ## Problem A - [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)
 

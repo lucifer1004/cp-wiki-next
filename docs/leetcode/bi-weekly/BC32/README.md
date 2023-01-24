@@ -1,4 +1,4 @@
-# Leetcode 第32场双周赛
+# 第 32 场双周赛
 
 ## Problem A - [第k个缺失的正整数](https://leetcode.cn/problems/kth-missing-positive-number/)
 

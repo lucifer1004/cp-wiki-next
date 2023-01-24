@@ -1,4 +1,4 @@
-# Leetcode 第286场周赛
+# 第 286 场周赛
 
 ## Problem A - [找出两数组的不同](https://leetcode.cn/problems/find-the-difference-of-two-arrays/)
 

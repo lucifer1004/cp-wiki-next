@@ -1,4 +1,4 @@
-# Leetcode 第257场周赛
+# 第 257 场周赛
 
 ## Problem A - [统计特殊四元组](https://leetcode.cn/problems/count-special-quadruplets/)
 

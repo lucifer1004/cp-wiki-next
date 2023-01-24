@@ -1,4 +1,4 @@
-# Leetcode 第243场周赛
+# 第 243 场周赛
 
 ## Problem A - [检查某单词是否等于两单词之和](https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第260场周赛
+# 第 260 场周赛
 
 ## Problem A - [增量元素之间的最大差值](https://leetcode.cn/problems/maximum-difference-between-increasing-elements/)
 

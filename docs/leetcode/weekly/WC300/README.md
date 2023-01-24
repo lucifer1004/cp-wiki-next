@@ -1,4 +1,4 @@
-# Leetcode 第300场周赛
+# 第 300 场周赛
 
 ## Problem A - [解密消息](https://leetcode.cn/problems/decode-the-message/)
 

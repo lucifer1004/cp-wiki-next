@@ -1,4 +1,4 @@
-# Leetcode 第266场周赛
+# 第 266 场周赛
 
 ## Problem A - [统计字符串中的元音子字符串](https://leetcode.cn/problems/count-vowel-substrings-of-a-string/)
 

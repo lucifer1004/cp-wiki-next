@@ -1,4 +1,4 @@
-# Leetcode 第247场周赛
+# 第 247 场周赛
 
 ## Problem A - [两个数对之间的最大乘积差](https://leetcode.cn/problems/maximum-product-difference-between-two-pairs/)
 

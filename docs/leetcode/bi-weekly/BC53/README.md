@@ -1,4 +1,4 @@
-# Leetcode 第53场双周赛
+# 第 53 场双周赛
 
 ## Problem A - [长度为三且各字符不同的子字符串](https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/)
 

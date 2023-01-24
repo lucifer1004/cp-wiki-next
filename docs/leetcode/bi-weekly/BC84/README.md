@@ -1,4 +1,4 @@
-# Leetcode 第84场双周赛
+# 第 84 场双周赛
 
 ## Problem A - [合并相似的物品](https://leetcode.cn/problems/merge-similar-items/)
 

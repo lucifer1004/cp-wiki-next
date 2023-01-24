@@ -1,4 +1,4 @@
-# Leetcode 第51场双周赛
+# 第 51 场双周赛
 
 ## Problem A - [将所有数字用字符替换](https://leetcode.cn/problems/replace-all-digits-with-characters/)
 

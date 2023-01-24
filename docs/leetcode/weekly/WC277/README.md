@@ -1,4 +1,4 @@
-# Leetcode 第277场周赛
+# 第 277 场周赛
 
 ## Problem A - [元素计数](https://leetcode.cn/problems/count-elements-with-strictly-smaller-and-greater-elements/)
 

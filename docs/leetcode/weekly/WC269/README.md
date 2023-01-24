@@ -1,4 +1,4 @@
-# Leetcode 第269场周赛
+# 第 269 场周赛
 
 ## Problem A - [找出数组排序后的目标下标](https://leetcode.cn/problems/find-target-indices-after-sorting-array/)
 

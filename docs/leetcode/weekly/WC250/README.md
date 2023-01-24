@@ -1,4 +1,4 @@
-# Leetcode 第250场周赛
+# 第 250 场周赛
 
 ## Problem A - [可以输入的最大单词数](https://leetcode.cn/problems/maximum-number-of-words-you-can-type/)
 

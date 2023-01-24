@@ -1,4 +1,4 @@
-# Leetcode 第192场周赛
+# 第 192 场周赛
 
 ## Problem A - [重新排列数组](https://leetcode.cn/problems/shuffle-the-array/)
 

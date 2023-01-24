@@ -1,4 +1,4 @@
-# Leetcode 第218场周赛
+# 第 218 场周赛
 
 ## Problem A - [设计 Goal 解析器](https://leetcode.cn/problems/goal-parser-interpretation/)
 

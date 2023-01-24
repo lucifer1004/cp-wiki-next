@@ -1,4 +1,4 @@
-# Leetcode 第52场双周赛
+# 第 52 场双周赛
 
 ## Problem A - [将句子排序](https://leetcode.cn/problems/sorting-the-sentence/)
 

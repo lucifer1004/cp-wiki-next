@@ -1,4 +1,4 @@
-# Leetcode 第79场双周赛
+# 第 79 场双周赛
 
 ## Problem A - [判断一个数的数字计数是否等于数位的值](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)
 

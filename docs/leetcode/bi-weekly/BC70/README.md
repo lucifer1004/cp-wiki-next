@@ -1,4 +1,4 @@
-# Leetcode 第70场双周赛
+# 第 70 场双周赛
 
 ## Problem A - [打折购买糖果的最小开销](https://leetcode.cn/problems/minimum-cost-of-buying-candies-with-discount/)
 

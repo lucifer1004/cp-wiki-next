@@ -1,4 +1,4 @@
-# Leetcode 第234场周赛
+# 第 234 场周赛
 
 ## Problem A - [字符串中不同整数的数目](https://leetcode.cn/problems/number-of-different-integers-in-a-string/)
 

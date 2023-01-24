@@ -1,4 +1,4 @@
-# Leetcode 第78场双周赛
+# 第 78 场双周赛
 
 ## Problem A - [找到一个数字的 K 美丽值](https://leetcode.cn/problems/find-the-k-beauty-of-a-number/)
 

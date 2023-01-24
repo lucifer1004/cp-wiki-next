@@ -1,4 +1,4 @@
-# Leetcode 第216场周赛
+# 第 216 场周赛
 
 ## Problem A - [检查两个字符串数组是否相等](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)
 

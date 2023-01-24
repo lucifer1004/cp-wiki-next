@@ -1,4 +1,4 @@
-# Leetcode 第73场双周赛
+# 第 73 场双周赛
 
 ## Problem A - [数组中紧跟 key 之后出现最频繁的数字](https://leetcode.cn/problems/most-frequent-number-following-key-in-an-array/)
 

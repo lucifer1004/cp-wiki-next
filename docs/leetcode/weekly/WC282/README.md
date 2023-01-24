@@ -1,4 +1,4 @@
-# Leetcode 第282场周赛
+# 第 282 场周赛
 
 ## Problem A - [统计包含给定前缀的字符串](https://leetcode.cn/problems/counting-words-with-a-given-prefix/)
 

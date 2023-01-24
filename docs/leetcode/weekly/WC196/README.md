@@ -1,4 +1,4 @@
-# Leetcode 第196场周赛
+# 第 196 场周赛
 
 ## Problem A - [判断能否形成等差数列](https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/)
 

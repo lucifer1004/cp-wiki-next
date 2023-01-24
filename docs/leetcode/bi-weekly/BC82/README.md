@@ -1,4 +1,4 @@
-# Leetcode 第82场双周赛
+# 第 82 场双周赛
 
 ## Problem A - [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/)
 

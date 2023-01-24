@@ -1,4 +1,4 @@
-# Leetcode 第48场双周赛
+# 第 48 场双周赛
 
 ## Problem A - [字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第268场周赛
+# 第 268 场周赛
 
 ## Problem A - [两栋颜色不同且距离最远的房子](https://leetcode.cn/problems/two-furthest-houses-with-different-colors/)
 

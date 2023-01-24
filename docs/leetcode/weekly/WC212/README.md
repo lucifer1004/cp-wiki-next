@@ -1,4 +1,4 @@
-# Leetcode 第212场周赛
+# 第 212 场周赛
 
 ## Problem A - [按键持续时间最长的键](https://leetcode.cn/problems/slowest-key/)
 

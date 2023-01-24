@@ -1,4 +1,4 @@
-# Leetcode 第233场周赛
+# 第 233 场周赛
 
 ## Problem A - [最大升序子数组和](https://leetcode.cn/problems/maximum-ascending-subarray-sum/)
 

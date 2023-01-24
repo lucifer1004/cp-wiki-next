@@ -1,4 +1,4 @@
-# Leetcode 第215场周赛
+# 第 215 场周赛
 
 ## Problem A - [设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第217场周赛
+# 第 217 场周赛
 
 ## Problem A - [最富有客户的资产总量](https://leetcode.cn/problems/richest-customer-wealth/)
 

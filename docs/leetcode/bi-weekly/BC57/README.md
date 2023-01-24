@@ -1,4 +1,4 @@
-# Leetcode 第57场双周赛
+# 第 57 场双周赛
 
 ## Problem A - [检查是否所有字符出现次数相同](https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/)
 

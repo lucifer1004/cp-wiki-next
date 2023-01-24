@@ -1,4 +1,4 @@
-# Leetcode 第226场周赛
+# 第 226 场周赛
 
 ## Problem A - [盒子中小球的最大数量](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/)
 

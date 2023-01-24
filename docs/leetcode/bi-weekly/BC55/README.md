@@ -1,4 +1,4 @@
-# Leetcode 第55场双周赛
+# 第 55 场双周赛
 
 ## Problem A - [删除一个元素使数组严格递增](https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/)
 

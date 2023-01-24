@@ -1,4 +1,4 @@
-# Leetcode 第42场双周赛
+# 第 42 场双周赛
 
 ## Problem A - [无法吃午餐的学生数量](https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/)
 

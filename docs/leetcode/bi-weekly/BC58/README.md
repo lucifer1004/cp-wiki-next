@@ -1,4 +1,4 @@
-# Leetcode 第58场双周赛
+# 第 58 场双周赛
 
 ## Problem A - [删除字符使字符串变好](https://leetcode.cn/problems/delete-characters-to-make-fancy-string/)
 

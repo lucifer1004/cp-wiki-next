@@ -1,4 +1,4 @@
-# Leetcode 第69场双周赛
+# 第 69 场双周赛
 
 ## Problem A - [将标题首字母大写](https://leetcode.cn/problems/capitalize-the-title/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第294场周赛
+# 第 294 场周赛
 
 ## Problem A - [字母在字符串中的百分比](https://leetcode.cn/problems/percentage-of-letter-in-string/)
 

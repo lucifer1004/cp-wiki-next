@@ -1,4 +1,4 @@
-# Leetcode 第246场周赛
+# 第 246 场周赛
 
 ## Problem A - [字符串中的最大奇数](https://leetcode.cn/problems/largest-odd-number-in-string/)
 

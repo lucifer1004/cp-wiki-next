@@ -1,4 +1,4 @@
-# Leetcode 第256场周赛
+# 第 256 场周赛
 
 ## Problem A - [学生分数的最小差值](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第76场双周赛
+# 第 76 场双周赛
 
 ## Problem A - [找到最接近 0 的数字](https://leetcode.cn/problems/find-closest-number-to-zero/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第278场周赛
+# 第 278 场周赛
 
 ## Problem A - [将找到的值乘以 2](https://leetcode.cn/problems/keep-multiplying-found-values-by-two/)
 

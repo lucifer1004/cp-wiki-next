@@ -163,7 +163,7 @@ const sidebars = {
   leetcodeSidebar: [
     {
       type: "category",
-      label: "LeetCode",
+      label: "力扣",
       link: { type: "doc", id: "leetcode" },
       items: [
         {

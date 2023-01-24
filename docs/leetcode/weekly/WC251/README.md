@@ -1,4 +1,4 @@
-# Leetcode 第251场周赛
+# 第 251 场周赛
 
 ## Problem A - [字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/)
 

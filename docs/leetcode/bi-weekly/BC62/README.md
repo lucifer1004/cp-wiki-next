@@ -1,4 +1,4 @@
-# Leetcode 第62场双周赛
+# 第 62 场双周赛
 
 ## Problem A - [将一维数组转变成二维数组](https://leetcode.cn/problems/convert-1d-array-into-2d-array/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第285场周赛
+# 第 285 场周赛
 
 ## Problem A - [由单个字符重复的最长子字符串](https://leetcode.cn/problems/longest-substring-of-one-repeating-character/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第194场周赛
+# 第 194 场周赛
 
 ## Problem A - [数组异或操作](https://leetcode.cn/problems/xor-operation-in-an-array/)
 

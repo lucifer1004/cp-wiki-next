@@ -1,4 +1,4 @@
-# Leetcode 第38场双周赛
+# 第 38 场双周赛
 
 ## Problem A - [按照频率将数组升序排序](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)
 

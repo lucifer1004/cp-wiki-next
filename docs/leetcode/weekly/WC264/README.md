@@ -1,4 +1,4 @@
-# Leetcode 第264场周赛
+# 第 264 场周赛
 
 ## Problem A - [句子中的有效单词数](https://leetcode.cn/problems/number-of-valid-words-in-a-sentence/)
 

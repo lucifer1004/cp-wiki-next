@@ -1,4 +1,4 @@
-# Leetcode 第222场周赛
+# 第 222 场周赛
 
 本场比赛的实况录像：[Bilibili](https://www.bilibili.com/video/BV1sA411W7VC) | [YouTube](https://youtu.be/nMh6nZxjWUQ)
 

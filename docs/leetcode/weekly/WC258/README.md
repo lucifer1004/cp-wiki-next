@@ -1,4 +1,4 @@
-# Leetcode 第258场周赛
+# 第 258 场周赛
 
 ## Problem A - [反转单词前缀](https://leetcode.cn/problems/reverse-prefix-of-word/)
 

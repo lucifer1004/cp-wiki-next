@@ -1,4 +1,4 @@
-# Leetcode 第224场周赛
+# 第 224 场周赛
 
 ## Problem A - [可以形成最大正方形的矩形数目](https://leetcode.cn/problems/number-of-rectangles-that-can-form-the-largest-square/)
 

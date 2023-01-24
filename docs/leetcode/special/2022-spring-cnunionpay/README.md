@@ -1,4 +1,7 @@
-# 2022 春中国银联专场竞赛
+---
+parse_number_prefixes: false
+---
+# 中国银联 2022 春季专场竞赛
 
 ## Problem A - [回文链表](https://leetcode.cn/contest/cnunionpay-2022spring/problems/D7rekZ/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第31场双周赛
+# 第 31 场双周赛
 
 ## Problem A - [在区间范围内统计奇数数目](https://leetcode.cn/problems/count-odd-numbers-in-an-interval-range/)
 

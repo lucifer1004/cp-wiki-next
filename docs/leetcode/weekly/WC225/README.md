@@ -1,4 +1,4 @@
-# Leetcode 第225场周赛
+# 第 225 场周赛
 
 ## Problem A - [替换隐藏数字得到的最晚时间](https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits/)
 

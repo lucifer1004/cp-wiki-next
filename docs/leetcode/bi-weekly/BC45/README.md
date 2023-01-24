@@ -1,4 +1,4 @@
-# Leetcode 第45场双周赛
+# 第 45 场双周赛
 
 ## Problem A - [唯一元素的和](https://leetcode.cn/problems/sum-of-unique-elements/)
 

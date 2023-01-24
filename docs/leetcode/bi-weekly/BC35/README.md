@@ -1,4 +1,4 @@
-# Leetcode 第35场双周赛
+# 第 35 场双周赛
 
 ## Problem A - [所有奇数长度子数组的和](https://leetcode.cn/problems/sum-of-all-odd-length-subarrays/)
 

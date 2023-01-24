@@ -1,4 +1,4 @@
-# Leetcode 第209场周赛
+# 第 209 场周赛
 
 ## Problem A - [特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 

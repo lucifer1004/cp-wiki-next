@@ -1,4 +1,4 @@
-# Leetcode 第280场周赛
+# 第 280 场周赛
 
 ## Problem A - [得到 0 的操作数](https://leetcode.cn/problems/count-operations-to-obtain-zero/)
 

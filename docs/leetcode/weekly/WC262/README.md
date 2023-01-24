@@ -1,4 +1,4 @@
-# Leetcode 第262场周赛
+# 第 262 场周赛
 
 ## Problem A - [至少在两个数组中出现的值](https://leetcode.cn/problems/two-out-of-three/)
 

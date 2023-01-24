@@ -1,4 +1,4 @@
-# Leetcode 第283场周赛
+# 第 283 场周赛
 
 ## Problem A - [Excel 表中某个范围内的单元格](https://leetcode.cn/problems/cells-in-a-range-on-an-excel-sheet/)
 

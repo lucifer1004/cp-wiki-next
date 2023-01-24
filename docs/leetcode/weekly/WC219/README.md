@@ -1,4 +1,4 @@
-# Leetcode 第219场周赛
+# 第 219 场周赛
 
 ## Problem A - [比赛中的配对次数](https://leetcode.cn/problems/count-of-matches-in-tournament/)
 

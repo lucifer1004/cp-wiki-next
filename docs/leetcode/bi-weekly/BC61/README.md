@@ -1,4 +1,4 @@
-# Leetcode 第61场双周赛
+# 第 61 场双周赛
 
 ## Problem A - [差的绝对值为 K 的数对数目](https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/)
 

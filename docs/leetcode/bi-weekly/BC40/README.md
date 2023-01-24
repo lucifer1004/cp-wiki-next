@@ -1,4 +1,4 @@
-# Leetcode 第40场双周赛
+# 第 40 场双周赛
 
 ## Problem A - [最大重复子字符串](https://leetcode.cn/problems/maximum-repeating-substring/)
 

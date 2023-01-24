@@ -1,4 +1,4 @@
-# Leetcode 第44场双周赛
+# 第 44 场双周赛
 
 ## Problem A - [找到最高海拔](https://leetcode.cn/problems/find-the-highest-altitude/)
 

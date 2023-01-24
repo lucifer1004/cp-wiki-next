@@ -1,4 +1,4 @@
-# Leetcode 第28场双周赛
+# 第 28 场双周赛
 
 ## Problem A - [商品折扣后的最终价格](https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop/)
 

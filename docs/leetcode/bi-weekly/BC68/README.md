@@ -1,4 +1,4 @@
-# Leetcode 第68场双周赛
+# 第 68 场双周赛
 
 ## Problem A - [句子中的最多单词数](https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/)
 

@@ -1,4 +1,4 @@
-# Leetcode 第252场周赛
+# 第 252 场周赛
 
 ## Problem A - [三除数](https://leetcode.cn/problems/three-divisors/)
 

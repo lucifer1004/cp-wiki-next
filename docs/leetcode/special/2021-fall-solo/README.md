@@ -1,4 +1,7 @@
-# 2021 年力扣杯秋季赛个人赛
+---
+parse_number_prefixes: false
+---
+# LCCUP 力扣杯 2021 秋季编程大赛个人赛
 
 ## Problem A - [无人机方阵](https://leetcode.cn/contest/season/2021-fall/problems/0jQkd0/)
 
