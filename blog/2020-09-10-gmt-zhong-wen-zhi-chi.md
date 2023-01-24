@@ -6,7 +6,7 @@ authors:
 tags:
   - GMT
   - GhostScript
-description: 如何让GMT正确地输出中文
+description: 让 GMT 正确输出中文。
 ---
 
 # GMT中文支持

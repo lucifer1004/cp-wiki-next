@@ -1,3 +1,4 @@
+from datetime import datetime
 from os import mkdir
 from pathlib import Path
 from utils import *
@@ -55,7 +56,25 @@ match get_choice(templates, 'Please choose a template'):
             if not folder.exists():
                 mkdir(folder)
             with open(contest_path, 'w') as f:
-                f.write(content)
+                f.write(content + '\n')
             info(f'{contest_path} created from template.')
+    case 'blog':
+        raw_title = input('\nPlease enter the title: ')
+        title = normalize(raw_title)
+        now = datetime.now()
+        date = f'{now.year}-{now.month:02}-{now.day:02}'
+        blog_path = (Path(__file__).parent / '..' / Path(
+            f'blog/{date}-{title}.md')).resolve()
+        if blog_path.exists():
+            warn('File already exists')
+            exit(1)
+        template = environment.get_template(f'blog.md')
+        content = template.render(
+            publish_date=date,
+            title=raw_title,
+        )
+        with open(blog_path, 'w') as f:
+            f.write(content + '\n')
+        info(f'{blog_path} created from template.')
     case other:
         pass

@@ -1,4 +1,5 @@
 import chalk
+from pypinyin import lazy_pinyin
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -39,3 +40,7 @@ def fetch_leetcode(id):
     driver.close()
     info('Problems fetched.')
     return titles, urls
+
+def normalize(title):
+    title = '-'.join(lazy_pinyin(title))
+    return title
