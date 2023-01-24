@@ -11,7 +11,7 @@ export default function CommentSystem(): JSX.Element {
         repoId="R_kgDOI0xGOQ"
         category="Announcements"
         categoryId="DIC_kwDOI0xGOc4CTxUn"
-        mapping="pathname"
+        mapping="og:title"
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="top"
