@@ -1,9 +1,8 @@
-import React from 'react';
-import Footer from '@theme-original/Footer';
-import Giscus from '@giscus/react';
-import { translate } from '@docusaurus/Translate';
+import { translate } from "@docusaurus/Translate";
+import Giscus from "@giscus/react";
+import React from "react";
 
-export default function FooterWrapper(props) {
+export default function CommentSystem(): JSX.Element {
   return (
     <>
       <Giscus
@@ -13,7 +12,6 @@ export default function FooterWrapper(props) {
         category="Announcements"
         categoryId="DIC_kwDOI0xGOc4CTxUn"
         mapping="pathname"
-        // term="Welcome to @giscus/react component!"
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="top"
@@ -24,7 +22,6 @@ export default function FooterWrapper(props) {
         })}
         loading="lazy"
       />
-      <Footer {...props} />
     </>
   );
 }

@@ -31,6 +31,7 @@ class Solution:
 :::details参考代码（JavaScript）
 
 ```js
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 var containsPattern = function(arr, m, k) {
     return new RegExp(`(\\d{${m}})\\1{${k - 1}}`).test(arr.join(''));
 };
