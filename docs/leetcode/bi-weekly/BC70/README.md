@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -55,7 +55,7 @@ BFS找出所有符合条件的物品，再按照题目要求排序取前 $K$ 个
 - 时间复杂度$\mathcal{O}(NM\log(NM))$。
 - 空间复杂度$\mathcal{O}(NM)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int d[4][2] = {{-1, 0}, {0, -1}, {0, 1}, {1, 0}};
@@ -121,7 +121,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int MOD = 1e9 + 7;

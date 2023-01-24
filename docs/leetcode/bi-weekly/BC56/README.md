@@ -9,7 +9,7 @@
 - 预处理时间复杂度$\mathcal{O}(N^2)$，之后每次调用时间复杂度$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int N = 255;
@@ -54,7 +54,7 @@ public:
 - 空间复杂度$\mathcal{O}(RC)$。
 
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int d[4][2] = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
@@ -112,7 +112,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -160,7 +160,7 @@ $$
 - 时间复杂度$\mathcal{O}((N+M)T\log NT)$。
 - 空间复杂度$\mathcal{O}(NT)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;
@@ -224,7 +224,7 @@ public:
 - 时间复杂度$\mathcal{O}((N+M)T)$。
 - 空间复杂度$\mathcal{O}(NT)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;

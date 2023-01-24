@@ -4,7 +4,7 @@
 
 枚举，时间复杂度$O(nm(n+m))$。更好的做法是先记录每一行的$1$的位置，如果这一行只有一个$1$，再去检查这个$1$是否也是其所在列唯一的$1$，这样可以把时间复杂度优化到$O(nm)$，但因为比赛时数据范围非常小，直接暴力做法就可以了。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -42,7 +42,7 @@ public:
 
 时间复杂度$O(n^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -91,7 +91,7 @@ public:
 
 因为我们要添加$V$个点，所以总时间复杂度为$O(V^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #define INF 0x3f3f3f3f
@@ -138,7 +138,7 @@ public:
 
 总时间复杂度为$O(CN)$，其中$C=10$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

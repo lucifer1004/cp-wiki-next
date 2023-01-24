@@ -7,7 +7,7 @@
 - 时间复杂度$O(N+M)$=$O(N)$。$N$为$arr$的长度。
 - 空间复杂度$O(M)$。$M$为$pieces$的长度。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -59,7 +59,7 @@ $$
 
 事实上，可以注意到，$dp[i][j]=\sum_{k=0}^jdp2[i][k]$，也即方法一中的$dp$数组实际上恰好是方法二中的$dp2$数组的前缀和。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -102,7 +102,7 @@ $$
 
 此时我们可以使用隔板法求解，一共$N+4$个间隔，需要放入$4$个搁板，所以最后的答案为${N+4}\choose4$。
 
-:::details参考代码 （Python 3）
+:::details 参考代码 （Python 3）
 
 ```python
 class Solution:
@@ -121,7 +121,7 @@ class Solution:
 - 时间复杂度$O(N\log N)$。
 - 空间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -159,7 +159,7 @@ public:
 - 时间复杂度$O(N+M)$。
 - 空间复杂度$O(N+M)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:

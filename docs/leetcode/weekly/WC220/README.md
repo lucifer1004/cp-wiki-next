@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -51,7 +51,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -88,7 +88,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -123,7 +123,7 @@ public:
 - 时间复杂度$\mathcal{O}(E\log E+Q\log Q+(Q+E)\alpha(N))$，其中$\alpha(N)$为Ackerman函数的反函数。
 - 空间复杂度$\mathcal{O}(N+Q)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class UnionFind {

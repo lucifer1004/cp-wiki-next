@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(|N_1|+|N_2|)$。这里因为字符串有长度限制，所以可以认为哈希操作的时间复杂度为常数。
 - 空间复杂度$\mathcal{O}(|N_1|+|N_2|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -31,7 +31,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -67,7 +67,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(R+C)$。
 - 空间复杂度$\mathcal{O}(R+C)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -122,7 +122,7 @@ $$
 - 时间复杂度$\mathcal{O}(RC)$。
 - 空间复杂度$\mathcal{O}(C)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

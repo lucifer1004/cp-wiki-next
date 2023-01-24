@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -34,7 +34,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(NM^2)$。
 - 空间复杂度 $\mathcal{O}(M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -65,7 +65,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\cdot2^N+K\cdot3^N)$ 。
 - 空间复杂度 $\mathcal{O}(K\cdot2^N)$ 。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -108,7 +108,7 @@ public:
 
 ### 方法一：统计首字母间的二维冲突矩阵
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

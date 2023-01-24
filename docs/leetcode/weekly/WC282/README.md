@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(N|T|)$，其中 $|T|$ 为给定前缀的长度。
 - 空间复杂度 $\mathcal{O}(N|T|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(|S|+|T|+|\Sigma|)$。
 - 空间复杂度 $\mathcal{O}(|\Sigma|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -49,7 +49,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log C)$。其中 $C = \min(time)\times totalTrips$ 为答案的上界。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -87,7 +87,7 @@ $$
 - 时间复杂度 $\mathcal{O}((N+M)K)$，其中 $N$ 为轮胎种数，$M$ 为要跑的圈数， $K=20$。
 - 空间复杂度 $\mathcal{O}(M+K)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 > 注意下面的代码中，因为多考虑了一次换胎时间（跑第一圈之前的换胎），所以最后的答案要减掉一次换胎时间。
 

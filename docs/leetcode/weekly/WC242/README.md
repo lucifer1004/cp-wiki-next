@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -46,7 +46,7 @@ public:
 
 > 为了防止浮点数有关的精度问题，下面的代码中预先将`hour`乘以100变为整数。但这一操作是否是必要的，我暂时不能肯定。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;
@@ -105,7 +105,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|+M\log M)$，其中$M$为字符串中`0`的个数。
 - 空间复杂度$\mathcal{O}(M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 inline int lowbit(int x) {
@@ -164,7 +164,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|+M\log M)$，其中$M$为字符串中`0`的个数。
 - 空间复杂度$\mathcal{O}(|S|+M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -209,7 +209,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|+M)$，其中$M$为字符串中`0`的个数。
 - 空间复杂度$\mathcal{O}(|S|+M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -263,7 +263,7 @@ $$
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

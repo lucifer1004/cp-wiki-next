@@ -6,7 +6,7 @@
 
 逐个检查即可。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -29,7 +29,7 @@ Leetcode也开始出构造题了？
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -69,7 +69,7 @@ public:
 - 时间复杂度$\mathcal{O}(P)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 mod = 1000000007
@@ -94,7 +94,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(RC\log RC)$。
 - 空间复杂度$\mathcal{O}(RC)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int d[4][2] = {{-1, 0}, {0, -1}, {0, 1}, {1, 0}};
@@ -151,7 +151,7 @@ public:
 - 时间复杂度$\mathcal{O}(RC\alpha(RC))$。
 - 空间复杂度$\mathcal{O}(RC)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int d[4][2] = {{-1, 0}, {0, -1}, {0, 1}, {1, 0}};

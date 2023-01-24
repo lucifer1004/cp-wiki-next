@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(\log_kN)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -36,7 +36,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$，因为我们需要对数组进行排序。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;
@@ -70,7 +70,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -123,7 +123,7 @@ public:
 - 时间复杂度$\mathcal{O}(M\log M)$，因为我们需要对限制条件进行排序。
 - 空间复杂度$\mathcal{O}(M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

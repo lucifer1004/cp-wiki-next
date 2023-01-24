@@ -6,7 +6,7 @@
 
 按要求计算即可。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -25,7 +25,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -44,7 +44,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N^2ML)$，其中$L=70$。
 - 空间复杂度$\mathcal{O}(NL)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -89,7 +89,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\cdot2^N)$。
 - 空间复杂度$\mathcal{O}(2^N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:

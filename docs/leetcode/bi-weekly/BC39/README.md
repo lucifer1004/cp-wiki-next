@@ -6,7 +6,7 @@
 
 时间复杂度$O(NK)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -31,7 +31,7 @@ class Solution:
 
 时间复杂度$O(|S|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -56,7 +56,7 @@ BFS即可，注意除了要记录当前的位置，还需要记录上一步是�
 
 时间复杂度$O(MAX)$，$MAX$为可能的最远位置。~~比赛时因为最远位置没有考虑清楚，吃了3发WA😶。~~
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;
@@ -111,7 +111,7 @@ DP的思路很简单，最开始所有人都没有分配数字，自然是处于
 - 时间复杂度$O(M\cdot2^M+F\cdot3^M+F\log F+N)$。其中$N$为数字个数，$F$为不同的数字的个数，$M$为人数。
 - 空间复杂度$O(F+2^M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -152,7 +152,7 @@ public:
 
 :::
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:

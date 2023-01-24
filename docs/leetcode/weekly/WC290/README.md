@@ -6,7 +6,7 @@
 
 按要求模拟即可。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -23,7 +23,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(NRC)$，$R$ 和 $C$ 为行列方向的搜索范围。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -55,7 +55,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N+M\log M+MY_{\max}\log N)$。
 - 空间复杂度 $\mathcal{O}(N+M+Y_{\max})$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -93,7 +93,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\log N+M\log M+(M+N)\log \min(N, Y_{\max}))$。
 - 空间复杂度 $\mathcal{O}(N+M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #include <ext/pb_ds/assoc_container.hpp>
@@ -142,7 +142,7 @@ public:
 - 时间复杂度 $\mathcal{O}((N+M)\log N + M\log M)$。
 - 空间复杂度 $\mathcal{O}(N+M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

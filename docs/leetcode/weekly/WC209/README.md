@@ -8,7 +8,7 @@
 
 时间复杂度$O(N^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -36,7 +36,7 @@ public:
 
 时间复杂度$O(N\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -62,7 +62,7 @@ public:
 
 时间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -91,7 +91,7 @@ public:
 
 总时间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -144,7 +144,7 @@ public:
 
 总时间复杂度$O(N\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const double eps = 1e-8;
@@ -194,7 +194,7 @@ public:
 
 实现这两个函数，递归计算即可。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -227,7 +227,7 @@ public:
 
 时间复杂度$O(\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

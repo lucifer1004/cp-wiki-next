@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N^2)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -33,7 +33,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 impl Solution {
@@ -61,7 +61,7 @@ impl Solution {
 - 时间复杂度$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -87,7 +87,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(NM)$。
 - 空间复杂度$\mathcal{O}(N+M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -146,7 +146,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\cdot2^{N/2})$。
 - 空间复杂度$\mathcal{O}(2^{N/2})$。
 
-:::details参考代码（C++，平衡二叉搜索树+二分查找）
+:::details 参考代码（C++，平衡二叉搜索树+二分查找）
 
 ```cpp
 class Solution {
@@ -193,7 +193,7 @@ public:
 
 实际运行下来，排序+双指针的方法要快上不少。并且这里不需要去重！如果用哈希表等进行去重，对于随机数据来说，时间开销反而是增加的。
 
-:::details参考代码（C++, 排序+双指针）
+:::details 参考代码（C++, 排序+双指针）
 
 ```cpp
 class Solution {
@@ -255,7 +255,7 @@ public:
 - 时间复杂度$\mathcal{O}(2^{N/2})$。
 - 空间复杂度$\mathcal{O}(2^{N/2})$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

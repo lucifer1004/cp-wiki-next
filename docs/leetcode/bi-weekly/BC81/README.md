@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(|S|)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -36,7 +36,7 @@ public:
 - 时间复杂度 $\mathcal{O}(V+E)$。
 - 空间复杂度 $\mathcal{O}(V+E)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -91,7 +91,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N)$ 。
 - 空间复杂度 $\mathcal{O}(1)$ 。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -116,7 +116,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\cdot C^3)$，其中 $C=6$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

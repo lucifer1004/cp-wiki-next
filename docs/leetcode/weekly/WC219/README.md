@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -27,7 +27,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 ```cpp
 class Solution {
 public:
@@ -51,7 +51,7 @@ $$
 - 时间复杂度$\mathcal{O}(N^2)$。
 - 空间复杂度$\mathcal{O}(N^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 ```cpp
 int dp[1005][1005];
 
@@ -103,7 +103,7 @@ $$
 一开始没注意到高度也有约束，折腾了好久……大家有时间不妨也思考下，如果没有对高度的约束，应该怎么做。比赛时我想了几种方法都不行，欢迎大家和我讨论。
 :::
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

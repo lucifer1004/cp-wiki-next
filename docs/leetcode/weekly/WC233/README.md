@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -37,7 +37,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -105,7 +105,7 @@ public:
 - 时间复杂度$\mathcal{O}(\log M)$。其中$M$为最大总和。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -150,7 +150,7 @@ public:
 
 最后，因为题目要求的是$i<j$的数对，而我们统计时没有区分先后关系，所以结果要除以$2$。这里有一个细节，对于$(i,i)$，也即与自身异或的这种情况，因为异或值一定为$0$，所以无论上界是多少，计数时总是会计入这种情况，那么在做减法的时候，就自然消去了。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct TrieNode {

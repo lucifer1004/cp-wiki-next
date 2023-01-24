@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -30,7 +30,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(|S|+|\sum|^2\log|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -71,7 +71,7 @@ $M$很小，提示我们按列进行枚举。首先，对于一列来说，合�
 - 时间复杂度$\mathcal{O}(N\cdot2^{2M})$。
 - 空间复杂度$\mathcal{O}(2^M)$。
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 const MOD: usize = 1_000_000_007;
@@ -175,7 +175,7 @@ impl Solution {
 - 时间复杂度$\mathcal{O}(N)$。其中$N$为所有二叉搜索树的节点总数。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int N = 50005;

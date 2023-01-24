@@ -10,7 +10,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -43,7 +43,7 @@ public:
 - 时间复杂度$\mathcal{O}(\log_3N)$。
 - 空间复杂度$\mathcal{O}(\log_3N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -70,7 +70,7 @@ public:
 - 时间复杂度$\mathcal{O}(N^2\log |\sum|)$
 - 空间复杂度$\mathcal{O}(N+|\sum|)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -108,7 +108,7 @@ public:
 - 时间复杂度$\mathcal{O}(V\log V+VQ+EQ)$
 - 空间复杂度$\mathcal{O}(E+V+Q)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

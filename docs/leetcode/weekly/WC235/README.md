@@ -4,7 +4,7 @@
 
 Python大法好。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -21,7 +21,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N + K)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -48,7 +48,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -95,7 +95,7 @@ public:
 
 但很遗憾的是，由于Leetcode特殊的计算总时间而非每个用例时间的判题方式，C++直接实现上述算法会超时。
 
-:::details参考代码（C++，TLE）
+:::details 参考代码（C++，TLE）
 
 ```cpp
 const int MAXN = 200005;
@@ -139,7 +139,7 @@ public:
 
 用Rust则可以顺利通过。
 
-:::details参考代码（Rust，AC）
+:::details 参考代码（Rust，AC）
 
 ```rust
 impl Solution {
@@ -188,7 +188,7 @@ impl Solution {
 
 后面的求解与之前的方法是一致的。
 
-:::details参考代码（C++，预计算，AC）
+:::details 参考代码（C++，预计算，AC）
 
 ```cpp
 const int MAXN = 200005;

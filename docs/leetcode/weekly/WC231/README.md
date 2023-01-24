@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -35,7 +35,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -63,7 +63,7 @@ public:
 - 时间复杂度$\mathcal{O}(E\log V)$。
 - 空间复杂度$\mathcal{O}(E+V)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -141,7 +141,7 @@ public:
 - 时间复杂度$\mathcal{O}(2^D\cdot(K+N))$。其中$D=10$。
 - 空间复杂度$\mathcal{O}(N + 2^D)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;

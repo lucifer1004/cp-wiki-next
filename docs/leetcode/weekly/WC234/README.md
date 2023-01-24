@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -34,7 +34,7 @@ class Solution:
 
 使用`re.split()`切分字母部分。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -46,7 +46,7 @@ class Solution:
 
 或者利用`re.findall()`提取数字部分。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -65,7 +65,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N^2)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -98,7 +98,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -131,7 +131,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -164,7 +164,7 @@ class Solution:
 
 使用正则表达式结合lambda函数进行替换。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -188,7 +188,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(\log N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 MOD = 1000000007

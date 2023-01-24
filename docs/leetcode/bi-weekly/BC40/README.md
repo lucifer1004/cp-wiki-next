@@ -6,7 +6,7 @@
 
 时间复杂度$\mathcal{O}(|S||W|\frac{|S|}{|W|}=|S|^2)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -27,7 +27,7 @@ class Solution:
 
 时间复杂度$\mathcal{O}(|S|+|W|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -55,7 +55,7 @@ class Solution:
 
 时间复杂度$\mathcal{O}(|L_1|+|L_2|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 def flatten(node):
@@ -87,7 +87,7 @@ class Solution:
 
 所有操作的时间复杂度都为$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class FrontMiddleBackQueue {
@@ -167,7 +167,7 @@ public:
 
 时间复杂度$\mathcal{O}(N\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -37,7 +37,7 @@ public:
 - 时间复杂度$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 pair<int, int> get_hour_and_minute(string &time) {
@@ -70,7 +70,7 @@ public:
 - 时间复杂度$\mathcal{O}(NM)$。
 - 空间复杂度$\mathcal{O}(NM)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int d[4][2] = {{0, -1}, {-1, 0}, {1, 0}, {0, 1}};
@@ -125,7 +125,7 @@ public:
 - 时间复杂度$\mathcal{O}((N+Q)K)$，其中$K=100$。
 - 空间复杂度$\mathcal{O}(NK)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int K = 100;

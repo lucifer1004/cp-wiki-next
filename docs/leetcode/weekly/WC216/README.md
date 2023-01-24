@@ -7,7 +7,7 @@
 - 时间复杂度$O(\sum|word1|+\sum|word2|)$。
 - 空间复杂度$O(\sum|word1|+\sum|word2|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -24,7 +24,7 @@ class Solution:
 - 时间复杂度$O(N)$。
 - 空间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -55,7 +55,7 @@ public:
 - 时间复杂度$O(N)$。
 - 空间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -97,7 +97,7 @@ public:
 - 时间复杂度$O(N\log N)$。我们进行了排序。
 - 空间复杂度$O(1)$。我们只使用了常数的额外空间。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

@@ -6,7 +6,7 @@
 
 时间复杂度$O(N\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -32,7 +32,7 @@ public:
 
 时间复杂度$O(ND^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -69,7 +69,7 @@ public:
 
 线段在端点处重合的情况比较让人讨厌，不妨增加$k-1$个点，然后改为选取端点不能重合的线段，易知这与原题是等价的。进一步地，因为线段端点不能重合，所以我们只需要在$n+k-1$个点中选取$2k$个，然后将相邻两个点依次连成线段即可。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from math import comb
@@ -87,7 +87,7 @@ class Solution:
 
 除初始化外，各操作的时间复杂度均为$O(\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #define MAXN 100005

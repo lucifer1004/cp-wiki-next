@@ -4,7 +4,7 @@
 
 就是前缀和。直接递推计算即可。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -24,7 +24,7 @@ public:
 
 贪心去除数量最少的整数，直到用完删除次数。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -55,7 +55,7 @@ public:
 
 二分答案。检查第$mid$天能够制作多少束花。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -102,7 +102,7 @@ public:
 
 倍增法求LCA（最近公共祖先）中的基础步骤。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class TreeAncestor {

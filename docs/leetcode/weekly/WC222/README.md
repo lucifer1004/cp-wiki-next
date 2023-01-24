@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -38,7 +38,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log MAXN)$，本题中$MAXN=2^{21}$（可以由两个$2^{20}$$组合得到）。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -82,7 +82,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -128,7 +128,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -180,7 +180,7 @@ warning 注意
 - 时间复杂度$\mathcal{O}(M\log\min(N,M))$，这里$\min(N,M)$是因为我们得到的公共子序列长度不会超过$\min(N,M)$，于是我们进行二分搜索的时间复杂度为$\mathcal{O}(\log\min(N,M))$。
 - 空间复杂度$\mathcal{O}(N+M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

@@ -21,7 +21,7 @@ parse_number_prefixes: false
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -53,7 +53,7 @@ class Solution:
 
 具体各操作的复杂度不再一一列出。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct Activity {
@@ -114,7 +114,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log C)$，其中 $C=10^7$ 为价值的最大值。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -162,7 +162,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(2^C\cdot N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from itertools import chain, combinations

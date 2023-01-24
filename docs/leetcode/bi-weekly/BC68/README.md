@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(\sum|W|)$。其中$|W|$表示单词的长度。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -33,7 +33,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N^3/W)$。其中$W$为字长。
 - 空间复杂度$\mathcal{O}(N^3/W)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -111,7 +111,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -163,7 +163,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from functools import reduce

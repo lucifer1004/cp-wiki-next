@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -33,7 +33,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(\log N\log\log N)$。
 - 空间复杂度 $\mathcal{O}(\log N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -68,7 +68,7 @@ class Solution:
 - 初始化和 `toString()` 时间复杂度 $\mathcal{O}(N)$，其余操作时间复杂度 $\mathcal{O}(1)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Bitset {
@@ -149,7 +149,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$
 - 空间复杂度$\mathcal{O}(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

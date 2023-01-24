@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(NT)$。其中$T=tickets[k]$为第$k$个人需要购票的数量。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -42,7 +42,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -61,7 +61,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -109,7 +109,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -151,7 +151,7 @@ public:
 - 时间复杂度$\mathcal{O}(QR\alpha(N))$。其中$Q$为查询数，$R$为限制数，$N$为用户数，$\alpha(x)$为Ackerman函数的反函数，在本题的数据范围内可近似认为常数。
 - 空间复杂度$\mathcal{O}(Q+N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class UnionFind {

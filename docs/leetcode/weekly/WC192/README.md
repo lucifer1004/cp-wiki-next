@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -34,7 +34,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(1)$，使用了常数量级的额外空间。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -60,7 +60,7 @@ public:
 
 维护当前的历史记录和指针即可。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class BrowserHistory:
@@ -94,7 +94,7 @@ class BrowserHistory:
 - 时间复杂度$\mathcal{O}(MNT)$。
 - 空间复杂度$\mathcal{O}(NT)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;

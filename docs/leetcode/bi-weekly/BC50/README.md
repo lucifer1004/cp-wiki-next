@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -33,7 +33,7 @@ public:
 - 时间复杂度为$\mathcal{O}(NQ)$。
 - 空间复杂度$\mathcal{O}(Q)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -68,7 +68,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -107,7 +107,7 @@ public:
 - 时间复杂度$\mathcal{O}(N(|\sum|+\log M))$。其中$|\sum|$为字典大小，$M=10^9+7-2=10^9+5$。
 - 空间复杂度$\mathcal{O}(N+|\sum|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

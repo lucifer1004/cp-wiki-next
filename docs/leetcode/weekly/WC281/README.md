@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -32,7 +32,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -64,7 +64,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N|\Sigma|)$。
 - 空间复杂度 $\mathcal{O}(N+|\Sigma|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -118,7 +118,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\log K+\tau^2(K))$，其中 $\tau(K)$ 为 $K$ 的正因子个数。
 - 空间复杂度 $\mathcal{O}(\tau(K))$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -145,7 +145,7 @@ public:
 
 :::
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:

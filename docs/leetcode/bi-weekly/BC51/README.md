@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -31,7 +31,7 @@ public:
 - 初始化时间复杂度为$\mathcal{O}(N\log N)$，`reserve`和`unreserve`操作时间复杂度为$\mathcal{O}(\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class SeatManager {
@@ -63,7 +63,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -92,7 +92,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N+Q\log Q+Q\log N)$。
 - 空间复杂度$\mathcal{O}(N+Q)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

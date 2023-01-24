@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -59,7 +59,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from heapq import *
@@ -92,7 +92,7 @@ $dp[i][j]$ 表示前 $i$ 块瓷砖用 $j$ 块地毯覆盖后的最少白色砖�
 - 时间复杂度$\mathcal{O}(NK)$。
 - 空间复杂度$\mathcal{O}(NK)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 1e9;

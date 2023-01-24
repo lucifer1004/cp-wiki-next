@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -41,7 +41,7 @@ public:
 - 时间复杂度$\mathcal{O}(N + M\cdot MAXC)$。其中$MAXC$为背包的最大容量。本题中$MAXC=20000$，因为答案不可能超过$20000$。
 - 空间复杂度$\mathcal{O}(MAXC)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -86,7 +86,7 @@ public:
 - 时间复杂度$\mathcal{O}(N + M)$。
 - 空间复杂度$\mathcal{O}(|\sum|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -153,7 +153,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct DSU {

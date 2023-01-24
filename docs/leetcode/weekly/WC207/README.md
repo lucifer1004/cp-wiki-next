@@ -6,7 +6,7 @@
 
 时间复杂度$O(|S|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -56,7 +56,7 @@ public:
 
 时间复杂度$O(N\cdot2^N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -107,7 +107,7 @@ public:
 
 更好的方法是使用回溯（~~我发现我不太喜欢写回溯，于是有时候很吃亏~~），因为实际上有很多状态是没有必要枚举的（在前面就已经出现了重复的）。
 
-:::details参考代码（C++，回溯）
+:::details 参考代码（C++，回溯）
 
 ```cpp
 class Solution {
@@ -145,7 +145,7 @@ public:
 
 时间复杂度$O(NM)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -225,7 +225,7 @@ public:
 
 最后的总时间复杂度为$O(NM\cdot3^M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;

@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -48,7 +48,7 @@ public:
 - 时间复杂度$\mathcal{O}(N+M+|\sum|^2)$。其中$|\sum|$为字母表的大小，本题中$|\sum|=26$。
 - 空间复杂度$\mathcal{O}(|\sum|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -100,7 +100,7 @@ public:
 - 时间复杂度$\mathcal{O}(NM\log K)$，其中$N$是矩阵的行数，$M$是矩阵的列数。
 - 空间复杂度$\mathcal{O}(NM)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -134,7 +134,7 @@ public:
 - 预处理时间复杂度$\mathcal{O}(\sqrt{MAXN})$，单次运行时间复杂度$\mathcal{O}(\sqrt{N}\log N\log{MAXN})$。考虑到使用了记忆化，在连续多次运行的情况下，运行时间可以进一步缩短。
 - 空间复杂度$\mathcal{O}(\sqrt{MAXN})$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 bool init = false;

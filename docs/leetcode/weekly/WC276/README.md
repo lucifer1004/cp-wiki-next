@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -33,7 +33,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(\log N)$。
 - 如不计入递归调用的消耗，空间复杂度为 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -61,7 +61,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -100,7 +100,7 @@ public:
 - 时间复杂度$\mathcal{O}((M+\log\frac{\sum batteries}{N})\log M)$
 - 空间复杂度$\mathcal{O}(M)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

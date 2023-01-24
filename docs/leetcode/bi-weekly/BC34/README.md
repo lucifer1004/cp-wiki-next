@@ -4,7 +4,7 @@
 
 直接按照题意进行累加，同时注意避免重复即可。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -26,7 +26,7 @@ class Solution:
 
 如果总数大于$0$且为$3$的倍数，设总数为$3t$，我们显然应该在第$t$和$t+1$个`1`之间做一个分割，在第$2t$和$2t+1$个`1`之间做第二个分割。假设第一个交界处的总长度为$l_1$，第二个交界处的总长度为$l_2$，我们分别使用插板法，可以知道答案为${l_1\choose1}{l_2\choose1}=l_1l_2$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -66,7 +66,7 @@ public:
 
 时间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -102,7 +102,7 @@ public:
 
 时间复杂度$O(N^2F)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;

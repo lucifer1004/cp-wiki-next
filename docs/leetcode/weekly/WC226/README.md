@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}((H-L)\log H)$。
 - 空间复杂度$\mathcal{O}(\log H)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -37,7 +37,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -101,7 +101,7 @@ public:
 - 时间复杂度$\mathcal{O}(N+Q)$，其中$N$是糖果的种数，$Q$是询问的个数。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -149,7 +149,7 @@ public:
 - 时间复杂度$\mathcal{O}(N^2)$。
 - 空间复杂度$\mathcal{O}(N^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

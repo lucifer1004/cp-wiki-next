@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -58,7 +58,7 @@ $$
 - 时间复杂度$\mathcal{O}(\log N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -85,7 +85,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(K\log\min len_i)$。其中$K$为所有数组的长度之和。
 - 空间复杂度$\mathcal{O}(K)$。
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 use std::collections::{HashSet, HashMap};
@@ -176,7 +176,7 @@ impl Solution {
 - 时间复杂度$\mathcal{O}(K\log\min len_i)$。其中$K$为所有数组的长度之和。这里二分答案的复杂度占主导。这里使用的求后缀数组和LCP数组的时间复杂度为线性复杂度。
 - 空间复杂度$\mathcal{O}(K)$。
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 use std::collections::HashSet;

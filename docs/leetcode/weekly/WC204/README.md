@@ -4,7 +4,7 @@
 
 穷举所有长度为$M$的串并检查。同样是写枚举，Python的优势就凸显出来了，毕竟可以直接列表切片以及切片判相等。
 
-:::details参考代码（Python3）
+:::details 参考代码（Python3）
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 
 此外，这题还可以用正则表达式一行解决，当然，这需要对正则表达式比较熟悉才行，如果现场调试正则表达式，花的时间可能要比直接枚举还多上不少。
 
-:::details参考代码（JavaScript）
+:::details 参考代码（JavaScript）
 
 ```js
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
@@ -45,7 +45,7 @@ var containsPattern = function(arr, m, k) {
 
 对于每一个子区间，我们需要乘积为正数，也就是负数的个数应该为偶数。采用前缀异或的方式一次遍历求解即可。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -83,7 +83,7 @@ public:
 
 再跑一遍Tarjan找割点。如果有割点，则答案为$1$；否则答案为$2$（因为无论陆地怎样分布，相邻陆地数目最少的那块陆地的相邻数目最大为$2$）。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int dx[4] = {-1, 0, 1, 0}, dy[4] = {0, -1, 0, 1};
@@ -188,7 +188,7 @@ public:
 
 对于任何一个数组，确定根节点（首个元素）后，我们可以将剩下元素分成大于根节点（右子树）和小于根节点（左子树）两种。容易发现，交换右子树中元素与左子树中元素之间的位置，不影响最后生成的二叉查找树。因此，设右子树有$n$个元素，左子树有$m$个元素，总的方法数就等于$C_{n+m}^n\cdot F(left)\cdot F(right)$。$F(left)$和$F(right)$递归求解即可。最后记得要减$1$（去掉自身）。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #define MAXN 1005

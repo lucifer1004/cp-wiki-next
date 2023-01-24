@@ -6,7 +6,7 @@
 
 时间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -34,7 +34,7 @@ public:
 
 总时间复杂度$O(\sum customers[i])$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -82,7 +82,7 @@ public:
 - `death`：$O(1)$
 - `getInheritanceOrder`：$O(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class ThroneInheritance {
@@ -126,7 +126,7 @@ public:
 
 总时间复杂度为$O((N+M)\cdot2^M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

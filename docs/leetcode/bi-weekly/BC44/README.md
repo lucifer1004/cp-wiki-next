@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -36,7 +36,7 @@ public:
 - 时间复杂度$\mathcal{O}(NE)$，其中$N$为人数，同时也是语言数，$E$为好友关系的数目。
 - 空间复杂度$\mathcal{O}(N^2)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -102,7 +102,7 @@ $$
 - 时间复杂度$\mathcal{O}(N)$
 - 空间复杂度$\mathcal{O}(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -143,7 +143,7 @@ public:
 
 - 时间复杂度$\mathcal{O}(MAXN\log MOD+Q\cdot F(N,K))$，其中前半部分为预处理的耗时，$F(N,K)$是$N$和$K$的一个函数，代表处理一次询问的时间复杂度，准确的表达式暂时无法给出。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #define MAXN 10005
@@ -231,7 +231,7 @@ public:
 
 - 时间复杂度$\mathcal{O}(MAXN\log MOD+Q\sqrt{MAXK})$，其中前半部分为预处理的耗时。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #define MAXN 10020

@@ -6,7 +6,7 @@
 
 时间复杂度$O(|S|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -34,7 +34,7 @@ public:
 
 总时间复杂度$O(N^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -76,7 +76,7 @@ public:
 
 最终，我们一共对四种情况进行了计算，分别是$(A,B),(B,A),(A',B'),(B',A')$，总时间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -133,7 +133,7 @@ warning 注意
 
 :::
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

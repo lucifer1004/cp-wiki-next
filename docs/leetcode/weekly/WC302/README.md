@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -26,7 +26,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -51,7 +51,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(Q\sum |W_i|\log\sum |W_i|)$ 。
 - 空间复杂度 $\mathcal{O}(\sum |W_i|)$ 。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -76,7 +76,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N)$ 。
 - 空间复杂度 $\mathcal{O}(1)$ 。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from math import gcd

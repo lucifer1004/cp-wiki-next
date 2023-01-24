@@ -6,7 +6,7 @@
 
 时间复杂度$O(N\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -36,7 +36,7 @@ public:
 
 时间复杂度$O(N\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -61,7 +61,7 @@ public:
 
 时间复杂度$O(|S||T|\min(|S|,|T|))$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -99,7 +99,7 @@ public:
 
 时间复杂度$O(NM+TM)$。其中$N$为目标词的长度，$M$为词典中单词的长度，$T$为词典中单词的个数。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;

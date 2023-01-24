@@ -6,7 +6,7 @@
 
 时间复杂度$O(|S|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -48,7 +48,7 @@ public:
 
 时间复杂度$O(N^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -84,7 +84,7 @@ public:
 
 时间复杂度$O(CN)$，其中$C$为字母表的大小，本题中为$26$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;
@@ -117,7 +117,7 @@ public:
 
 时间复杂度$O((V+E)\alpha(V))$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class UnionFind {

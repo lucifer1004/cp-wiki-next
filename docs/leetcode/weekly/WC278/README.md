@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(N+\log M)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -31,7 +31,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -75,7 +75,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -128,7 +128,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N|\Sigma|^2\alpha(N))$
 - 空间复杂度$\mathcal{O}(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct UnionFind {

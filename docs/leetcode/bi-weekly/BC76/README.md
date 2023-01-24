@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(\frac{N}{\max(C_1,C_2)})$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python）
+:::details 参考代码（Python）
 
 ```python
 class Solution:
@@ -49,7 +49,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(1)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 prices = [20, 50, 100, 200, 500]
@@ -91,7 +91,7 @@ class ATM:
 - 时间复杂度 $\mathcal{O}(V+E)$。
 - 空间复杂度 $\mathcal{O}(V+E)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

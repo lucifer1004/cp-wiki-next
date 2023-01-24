@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(\sum|S_i|\log|S_i|)$。
 - 空间复杂度 $\mathcal{O}(\sum |S_i|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -46,7 +46,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(NK)$ 。
 - 空间复杂度 $\mathcal{O}(N)$，可以进一步优化到 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -63,7 +63,7 @@ class Solution:
 - 添加一个新区间的均摊时间复杂度为 $\mathcal{O}(\log N)$，查询时间复杂度为 $\mathcal{O}(1)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class CountIntervals {

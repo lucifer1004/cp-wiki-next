@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(|K|+|M|)$。
 - 空间复杂度 $\mathcal{O}(|\Sigma|+|M|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(MN)$。
 - 空间复杂度 $\mathcal{O}(MN)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -102,7 +102,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N)$ 。
 - 空间复杂度 $\mathcal{O}(N)$ 。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int MOD = 1e9 + 7;
@@ -139,7 +139,7 @@ public:
 - 时间复杂度 $\mathcal{O}(NM\log(NM))$ 。
 - 空间复杂度 $\mathcal{O}(NM)$ 。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int MOD = 1e9 + 7;

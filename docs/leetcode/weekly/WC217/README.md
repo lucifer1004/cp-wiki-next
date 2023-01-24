@@ -6,7 +6,7 @@
 
 时间复杂度$\mathcal{O}(NM)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -27,7 +27,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N\log N)$。
 
-:::details参考代码（C++，稀疏表）
+:::details 参考代码（C++，稀疏表）
 
 ```cpp
 class Solution {
@@ -74,7 +74,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++，优先队列）
+:::details 参考代码（C++，优先队列）
 
 ```cpp
 class Solution {
@@ -110,7 +110,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++，单调队列）
+:::details 参考代码（C++，单调队列）
 
 ```cpp
 class Solution {
@@ -168,7 +168,7 @@ public:
 - 时间复杂度$\mathcal{O}(N+L)$。
 - 空间复杂度$\mathcal{O}(L)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -205,7 +205,7 @@ public:
 - 时间复杂度$\mathcal{O}(\sum(\log a_i)\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

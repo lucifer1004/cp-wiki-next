@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -32,7 +32,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -67,7 +67,7 @@ public:
 - 时间复杂度$\mathcal{O}(N+M)$，其中$N$是$target$和$source$的长度，$M$是$allowedSwaps$的长度。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct UnionFind {
@@ -135,7 +135,7 @@ public:
 - 时间复杂度$\mathcal{O}(3^N\log\sum job_i))$，其中$N$是任务的数量。
 - 空间复杂度$\mathcal{O}(2^N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -184,7 +184,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\cdot2^N\log\sum job_i))$，其中$N$是任务的数量。
 - 空间复杂度$\mathcal{O}(2^N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -232,7 +232,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\cdot2^N\log2^N))=\mathcal{O}(N^2\cdot2^N)$，其中$N$是任务的数量。
 - 空间复杂度$\mathcal{O}(2^N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

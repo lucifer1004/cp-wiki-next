@@ -9,7 +9,7 @@
 
 注意这里最多10个数字，所以可以认为`set`操作的时间复杂度为常数。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -30,7 +30,7 @@ public:
 
 如果用Python的话一行就可以搞定。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -48,7 +48,7 @@ class Solution:
 - 生成和更新操作的时间复杂度为$\mathcal{O}(1)$，计数操作的时间复杂度为$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class AuthenticationManager {
@@ -90,7 +90,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -118,7 +118,7 @@ public:
 - 时间复杂度$\mathcal{O}(N^2(\log MAX+2^N))$。
 - 空间复杂度$\mathcal{O}(N^2+2^N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 int gcd(int x, int y) {

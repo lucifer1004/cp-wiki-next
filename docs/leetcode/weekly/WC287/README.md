@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(1)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -26,7 +26,7 @@ class Solution:
 
 :::
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 int seconds(string s) {
@@ -62,7 +62,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -74,7 +74,7 @@ class Solution:
 
 :::
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -106,7 +106,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\log C)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -139,7 +139,7 @@ public:
 - 时间复杂度 $\mathcal{O}(\Sigma\cdot K)$，其中 $\Sigma$ 是所有栈的元素数目之和。
 - 空间复杂度 $\mathcal{O}(K)$。
 
-:::details参考代码（Python 3)
+:::details 参考代码（Python 3)
 
 ```python
 class Encrypter:
@@ -159,7 +159,7 @@ class Encrypter:
 
 :::
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Encrypter {
@@ -199,7 +199,7 @@ public:
 
 我们也可以用字典树来处理解密操作。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct Trie {

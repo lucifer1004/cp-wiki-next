@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(\log^2N)$。
 - 空间复杂度 $\mathcal{O}(\log N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -34,7 +34,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(|S|^3)$。
 - 空间复杂度 $\mathcal{O}(|S|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -70,7 +70,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(K\log N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;
@@ -108,7 +108,7 @@ class Solution {
 - 时间复杂度 $\mathcal{O}(N\log^2N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

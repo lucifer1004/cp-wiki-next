@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -43,7 +43,7 @@ public:
 - 时间复杂度为$\mathcal{O}(RC)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -77,7 +77,7 @@ public:
 - 时间复杂度$\mathcal{O}(E\log E)$（因为使用`priority_queue`没有移除无效元素）。
 - 空间复杂度$\mathcal{O}(V+E)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;
@@ -140,7 +140,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|^2)$。
 - 空间复杂度$\mathcal{O}(|S|^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

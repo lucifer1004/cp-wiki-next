@@ -7,7 +7,7 @@
 - 时间复杂度$O(N)$。
 - 空间复杂度$O(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 @functools.lru_cache(None)
@@ -29,7 +29,7 @@ class Solution:
 - 时间复杂度$O(N+K\log K)$，$K$为不同字符的个数。
 - 空间复杂度$O(K)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -54,7 +54,7 @@ class Solution:
 - 时间复杂度$O(N\log N)$。
 - 空间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -99,7 +99,7 @@ public:
 - 时间复杂度$O(N\log K)$，$K$为不同数字的个数。
 - 空间复杂度$O(K)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;

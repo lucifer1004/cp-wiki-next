@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N\cdot2^N)$。
 - 空间复杂度$\mathcal{O}(2^N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -44,7 +44,7 @@ public:
 - 时间复杂度$\mathcal{O}(K\log N)$，其中$K$为最高的二进制位数。
 - 空间复杂度为$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 K = 5
@@ -68,7 +68,7 @@ class Solution:
 
 进一步地，我们可以利用位运算快速求出对于任意一位，数组中是否有该位为1的元素，从而将时间复杂度优化到$\mathcal{O}(N+K)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 K = 5
@@ -91,7 +91,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -129,7 +129,7 @@ class Solution:
 - 初始化时间复杂度$\mathcal{O}(N+M)$，`add`操作时间复杂度为$\mathcal{O}(1)$，`count`操作时间复杂度为$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N+M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class FindSumPairs {
@@ -183,7 +183,7 @@ $$
 - 预处理时间复杂度$\mathcal{O}(MAXN^2)$，之后每次调用的时间复杂度为$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(MAXN^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

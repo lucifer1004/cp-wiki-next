@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(|S|)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -17,7 +17,7 @@ class Solution:
 
 :::
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -42,7 +42,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -58,7 +58,7 @@ class Solution:
 
 :::
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -89,7 +89,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\log N)$ 。
 - 空间复杂度 $\mathcal{O}(1)$ 。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -122,7 +122,7 @@ public:
 - 时间复杂度为 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

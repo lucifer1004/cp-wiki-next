@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 - 时间复杂度为$\mathcal{O}(|S_1|+|S_2|)$。
 - 空间复杂度$\mathcal{O}(|S_1|+|S_2|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -57,7 +57,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 def rev(x):
@@ -90,7 +90,7 @@ class Solution:
 
 为了减少状态，各个余数取值的剩余数量不应超过其初始值。也即，合并得到的新值不需要加入到状态中。这是因为，如果合并后可以被`batchSize`整除，显然不会在状态中加入新值；而如果合并后得到的值仍不能被`batchSize`整除，这个数值实际上可以借助当前状态与初始状态的差值来确定出来，也不需要通过在状态中加入新值来进行表示。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 这里给出[@newhar](https://leetcode.cn/problems/maximum-number-of-groups-getting-fresh-donuts/solution/cong-zui-zhi-jie-de-fang-fa-kai-shi-yi-b-x729/)的代码。代码中采用了混合进制的方式表示状态。
 

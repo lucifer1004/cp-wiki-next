@@ -6,7 +6,7 @@
 
 遍历一遍，逐个检查即可。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -26,7 +26,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -67,7 +67,7 @@ public:
 - 时间复杂度$\mathcal{O}(NC)$，其中$C$表示有效数值的范围大小。
 - 空间复杂度$\mathcal{O}(C)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;
@@ -103,7 +103,7 @@ public:
 
 :::
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 use std::collections::VecDeque;
@@ -162,7 +162,7 @@ impl Solution {
 - 时间复杂度$\mathcal{O}(NMD\cdot 10^D)$。其中$D$表示连续数字串的最长长度，本题中$D=3$。$D$决定了长度差的取值范围为$(-10^D, 10^D)$，这是因为连续的数字串前面至少有一个字母（或为字符串串首），而由我们的转移规则可知，字母只有在串的长度小于等于另一个串时才会被用于匹配，因此连续$D$个数字至多使得当前字符串比另一字符串长$10^D-1$。
 - 空间复杂度$\mathcal{O}(NM\cdot 10^D)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

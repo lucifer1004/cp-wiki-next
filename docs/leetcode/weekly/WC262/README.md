@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -35,7 +35,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(NM)$。
 - 空间复杂度$\mathcal{O}(NM)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -81,7 +81,7 @@ public:
 - 各操作时间复杂度均为$\mathcal{O}(\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class StockPrice {
@@ -130,7 +130,7 @@ public:
 
 > 在具体实现中，我们使用了一个小trick，也即将原数组中所有数变为两倍。这样可以保证我们的目标值$sum/2$是一个整数。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

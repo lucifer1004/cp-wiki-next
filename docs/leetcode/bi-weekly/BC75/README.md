@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(1)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -31,7 +31,7 @@ public:
 - 时间复杂度$\mathcal{O}(N^2)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 impl Solution {
@@ -69,7 +69,7 @@ impl Solution {
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;
@@ -112,7 +112,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #include <atcoder/string>
@@ -162,7 +162,7 @@ class Solution {
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #include <atcoder/string>

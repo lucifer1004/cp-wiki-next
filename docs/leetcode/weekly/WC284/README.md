@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(NK)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -36,7 +36,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -69,7 +69,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N+M)$，其中 $N$ 为工件数，$M$ 为挖掘数。
 - 空间复杂度 $\mathcal{O}(N+M)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -103,7 +103,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -146,7 +146,7 @@ $$
 - 时间复杂度 $\mathcal{O}(E\log V)$。需要注意的是，下面代码的复杂度实际上会略高于这一理论值，因为在某一元素已经入队但距离再次被更新时，并没有逐出原先在队列中的元素。
 - 空间复杂度 $\mathcal{O}(E+V)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

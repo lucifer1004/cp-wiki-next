@@ -6,7 +6,7 @@
 
 时间复杂度$O(N^2)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -36,7 +36,7 @@ class Solution:
 
 总时间复杂度$O(N\log N)$（因为要排序）。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -76,7 +76,7 @@ public:
 
 时间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -125,7 +125,7 @@ public:
 
 时间复杂度$O(NMC^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #define C 60

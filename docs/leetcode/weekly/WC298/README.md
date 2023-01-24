@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(|S| + |\Sigma|)$。
 - 空间复杂度 $\mathcal{O}(min(|S|, |\Sigma|))$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -29,7 +29,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(1)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -53,7 +53,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(|S|^2)$ 。
 - 空间复杂度 $\mathcal{O}(|S|)$ 。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -83,7 +83,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(|S|)$ 。
 - 空间复杂度 $\mathcal{O}(1)$ 。
 
-:::details参考代码（C++)
+:::details 参考代码（C++)
 
 ```cpp
 class Solution {
@@ -112,7 +112,7 @@ public:
 
 ### 方法一：动态规划
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -28,7 +28,7 @@ public:
 
 Python一行解法：
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -53,7 +53,7 @@ tip 注意
 - 时间复杂度为$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -72,7 +72,7 @@ public:
 
 Python一行解法：
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -103,7 +103,7 @@ tip 注意
 - 时间复杂度$\mathcal{O}(NM\min(N,M))$。
 - 空间复杂度$\mathcal{O}(NM\min(N,M))$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -156,7 +156,7 @@ public:
 - 时间复杂度$\mathcal{O}(N^2\cdot2^N)$。
 - 空间复杂度$\mathcal{O}(2^N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -186,7 +186,7 @@ public:
 
 事实上，对于一个给定的$state$，我们可以根据其二进制中$1$的个数来求出添加下一个元素时，对应于`nums1`中的第几个元素，从而可以将时间复杂度降低到$\mathcal{O}(N\cdot2^N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

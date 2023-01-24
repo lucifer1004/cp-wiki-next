@@ -11,7 +11,7 @@
 - 时间复杂度$\mathcal{O}(ND)$。
 - 空间复杂度$\mathcal{O}(D)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -36,7 +36,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度为$\mathcal{O}(D)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -67,7 +67,7 @@ public:
 - 时间复杂度$\mathcal{O}(N+M)$。
 - 不考虑两个输入数组，空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -99,7 +99,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;
@@ -155,7 +155,7 @@ public:
 - 时间复杂度$\mathcal{O}((N+M)|\sum|)$。
 - 空间复杂度$\mathcal{O}(N+M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

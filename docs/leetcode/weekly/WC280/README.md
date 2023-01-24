@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(\log \max(N,M))$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -37,7 +37,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N)$，如果将寻找前二大频率从排序改为线性寻找，则时间复杂度为 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from collections import Counter
@@ -76,7 +76,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N \log N)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -103,7 +103,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(NS\cdot3^S)$
 - 空间复杂度$\mathcal{O}(3^S)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -148,7 +148,7 @@ public:
 
 根据本题中的数据范围可知方法二的复杂度是大于方法一的。因此下面不带剪枝处理的 C++ 实现是无法在时限内通过测试的。
 
-:::details参考代码（C++，无剪枝，超时）
+:::details 参考代码（C++，无剪枝，超时）
 
 ```cpp
 class Solution {
@@ -184,7 +184,7 @@ public:
 
 :::
 
-:::details参考代码（Rust，无剪枝，通过）
+:::details 参考代码（Rust，无剪枝，通过）
 
 ```rust
 impl Solution {
@@ -226,7 +226,7 @@ impl Solution {
 
 需要的优化并不多，只要加上状态合法性判断（如果剩下的篮子不够装剩下的数，就不再继续）就足以通过：
 
-:::details参考代码（C++，剪枝，通过）
+:::details 参考代码（C++，剪枝，通过）
 
 ```cpp
 class Solution {
@@ -262,7 +262,7 @@ public:
 
 :::
 
-:::details参考代码（Rust，剪枝，通过）
+:::details 参考代码（Rust，剪枝，通过）
 
 ```rust
 impl Solution {

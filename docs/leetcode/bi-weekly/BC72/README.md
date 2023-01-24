@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N^2)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -34,7 +34,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -53,7 +53,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(\sqrt{N})$。
 - 空间复杂度$\mathcal{O}(\sqrt{N})$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -130,7 +130,7 @@ $[1,0,0,0,0]\rightarrow[1,0,1,0,0]\rightarrow[1,1,1,0,0]\rightarrow[1,1,1,0,1]\r
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 template <class T> class FenwickTree {

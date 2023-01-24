@@ -12,7 +12,7 @@ parse_number_prefixes: false
 - 时间复杂度$\mathcal{O}(NM)$。
 - 空间复杂度$\mathcal{O}(NM)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from collections import Counter
@@ -47,7 +47,7 @@ class Solution:
 - 时间复杂度为$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -94,7 +94,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}((NM)^3)$。
 - 空间复杂度$\mathcal{O}(NM)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int d[8][2] = {{-1, 0}, {-1, -1}, {-1, 1}, {0, -1}, {0, 1}, {1, -1}, {1, 0}, {1, 1}};
@@ -164,7 +164,7 @@ public:
 - 时间复杂度$\mathcal{O}(NR\log M+M\log M)$。
 - 空间复杂度$\mathcal{O}(M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -232,7 +232,7 @@ public:
 - 预处理时间复杂度$\mathcal{O}(16\cdot2^{16})$，每次运行时间复杂度$\mathcal{O}(64N^4)$。
 - 空间复杂度$\mathcal{O}(N^4+2^{16})$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;

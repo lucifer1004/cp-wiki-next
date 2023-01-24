@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|\sum|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -29,7 +29,7 @@ class Solution:
 - 时间复杂度为$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -77,7 +77,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -143,7 +143,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -179,7 +179,7 @@ public:
 
 我们可以寻找**每个人左侧第一个高于他的人**，而非**右侧**。此时，每出栈一次，就对应于上面方法中向右迭代一次。因此，出栈的次数就对应于一个人右侧能看到的人数。当然，我们还需要检查栈是否为空。如果栈最后非空，那么答案还要加上1，此时的栈顶元素就对应于这个人右侧第一个高于他的人。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

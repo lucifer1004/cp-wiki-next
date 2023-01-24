@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(k|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -31,7 +31,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -60,7 +60,7 @@ public:
 - 时间复杂度$\mathcal{O}(M\cdot M!)=\mathcal{O}(M!)$。
 - 空间复杂度$\mathcal{O}(M^2)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -89,7 +89,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(M\cdot2^M)$。
 - 空间复杂度$\mathcal{O}(M^2+2^M)=\mathcal{O}(2^M)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -148,7 +148,7 @@ $$
 
 如果采用无序结构，则很可能判定`"a"`和`"d"`不是重复文件夹，但实际上它们是重复的（都包含了`"b"`和`"c"`）。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ull = unsigned long long;

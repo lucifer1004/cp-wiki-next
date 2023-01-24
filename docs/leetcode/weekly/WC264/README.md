@@ -6,7 +6,7 @@
 
 构造一个正则表达式对每个token进行校验即可。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 import re
@@ -27,7 +27,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 import bisect
@@ -50,7 +50,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -102,7 +102,7 @@ public:
 - 时间复杂度$\mathcal{O}(V+E)$。
 - 空间复杂度$\mathcal{O}(V+E)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

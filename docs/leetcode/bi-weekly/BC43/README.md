@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution:
@@ -34,7 +34,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Kotlin）
+:::details 参考代码（Kotlin）
 
 ```kotlin
 class Solution {
@@ -60,7 +60,7 @@ class Solution {
 - 时间复杂度$\mathcal{O}(N)$
 - 空间复杂度$\mathcal{O}(1)$
 
-:::details参考代码（JavaScript）
+:::details 参考代码（JavaScript）
 
 ```js
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
@@ -103,7 +103,7 @@ var maximumGain = function(s, x, y) {
 
 我们每次贪心地选取当前可选的最大的数字，然后回溯求解。这样我们找到的第一个可行解就是题目要求的字典序最大的解。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -153,7 +153,7 @@ public:
 
 :::
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -200,7 +200,7 @@ class Solution:
 - 遍历二元组，如果该二元组出现了，但是两个数的关系未确定，则可能出现多解。
 - 拓扑排序，判断是否有解。如果有解，再根据上一步结果判断是否多解。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct UnionFind {

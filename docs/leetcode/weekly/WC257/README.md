@@ -9,7 +9,7 @@ $N\leq50$，因此$\mathcal{O}(N^4)$的穷举即可通过本题。
 - 时间复杂度$\mathcal{O}(N^4)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -43,7 +43,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\cdot MAXN)$。
 - 空间复杂度$\mathcal{O}(MAXN)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from collections import Counter
@@ -77,7 +77,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -122,7 +122,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int MOD = 1e9 + 7;
@@ -155,7 +155,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\sqrt{N})$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct UnionFind {

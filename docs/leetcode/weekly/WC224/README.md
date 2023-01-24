@@ -6,7 +6,7 @@
 
 - 时间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -24,7 +24,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N^2)$。
 - 空间复杂度$\mathcal{O}(N^2)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -45,7 +45,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(MN\log N)$，其中$M$是矩阵的行数，$N$是矩阵的列数。
 - 空间复杂度$\mathcal{O}(MN)$。
 
-:::details参考代码（Python）
+:::details 参考代码（Python）
 
 ```python
 class Solution:
@@ -79,7 +79,7 @@ class Solution:
 
 - 时间复杂度$\mathcal{O(n^3m^3)}$，因为总状态数为$n^2m^2T$，其中$T=2nm$。
 
-:::details参考代码（Python）
+:::details 参考代码（Python）
 
 ```python
 class Solution:
@@ -134,7 +134,7 @@ class Solution:
 
 - 时间复杂度$\mathcal{O}(V+E)=\mathcal{O}(n^2m^2(m+n))$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int dx[4] = {-1, 0, 1, 0}, dy[4] = {0, -1, 0, 1}; 

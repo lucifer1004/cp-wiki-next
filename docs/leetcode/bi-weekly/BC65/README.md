@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(|S_1|+|S_2|)$。
 - 空间复杂度$\mathcal{O}(|\sum|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -33,7 +33,7 @@ class Solution:
 - 初始化时间复杂度为$\mathcal{O}(W+H)$，其余操作时间复杂度为$\mathcal{O}(1)$。
 - 空间复杂度$\mathcal{O}(W+H)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const string dirs[4] = {"East", "North", "West", "South"};
@@ -100,7 +100,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N+Q\log Q)$。
 - 空间复杂度$\mathcal{O}(Q)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -157,7 +157,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log^2N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -242,7 +242,7 @@ public:
 
 > 参考了[@灵剑2012](https://leetcode.cn/problems/maximum-number-of-tasks-you-can-assign/solution/ji-yu-er-fen-dan-diao-dui-lie-de-onlogns-zy8q/)的题解。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

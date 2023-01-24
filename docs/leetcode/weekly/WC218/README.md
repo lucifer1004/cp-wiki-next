@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -41,7 +41,7 @@ public:
 
 需要注意的是，代码中对$k-num$是否存在的这一判断是不能忽略的，因为如果直接使用$mp[k-num]$，C++会自动将$k-num$这个键插入进去；而在遍历哈希表的时候增加键（或删除键）会导致遍历结果和预期不符。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 ```cpp
 class Solution {
 public:
@@ -73,7 +73,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 mod = 1000000007
@@ -93,7 +93,7 @@ class Solution:
 
 使用C++中的内置函数`__builtin_clz`来求$i$的二进制表示的长度是更迅速的。因为内置函数有指令集优化，所以时间复杂度会来到$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 ```cpp
 const int MOD = 1e9 + 7;
 
@@ -130,7 +130,7 @@ public:
 比赛时，拷贝代码的时候不知道怎么把版本搞错了，本来是加上了优化一的，结果连着交了几发没加优化一的版本，怒吃三发TLE，最后靠着优化二和优化三勉强通过了。预计下周就要跌出国服前十了，心塞。
 :::
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 // 优化四：指令集优化，让CPU使用POPCNT指令，从而加速__builtin_popcount

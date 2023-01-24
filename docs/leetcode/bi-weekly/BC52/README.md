@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(|S|+N\log N)$。
 - 空间复杂度$\mathcal{O}(|S|+N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -26,7 +26,7 @@ class Solution:
 - 时间复杂度为$\mathcal{O}(\sqrt{N+M})$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -52,7 +52,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(RC)$。
 - 空间复杂度$\mathcal{O}(RC)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -98,7 +98,7 @@ public:
 - 时间复杂度$\mathcal{O}(H\log H+N)$，其中$H=\max{nums}$。
 - 空间复杂度$\mathcal{O}(H)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

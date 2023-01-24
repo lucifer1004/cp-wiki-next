@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N^2)$。
 - 空间复杂度$\mathcal{O}(N^2)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -44,7 +44,7 @@ public:
 
 如果用Python的话，还可以直接使用`np.rot90`。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 import numpy as np
@@ -71,7 +71,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -104,7 +104,7 @@ public:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -144,7 +144,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}((N+K)\log N+K\log K)$，其中$K$是所有供应商的箱子总数。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

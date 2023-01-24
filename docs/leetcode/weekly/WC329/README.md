@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(\log N)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -24,7 +24,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(NM)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -41,7 +41,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$ 。
 - 空间复杂度 $\mathcal{O}(1)$ 。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -58,7 +58,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N^2)$ 。
 - 空间复杂度 $\mathcal{O}(N^2)$ 。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -88,7 +88,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N)$ 。
 - 空间复杂度 $\mathcal{O}(N)$ 。
 
-:::details参考代码（C++）
+::::details 参考代码（C++）
 
 ```cpp
 #include <atcoder/lazysegtree>
@@ -129,3 +129,9 @@ class Solution {
     }
 };
 ```
+
+:::caution 注意
+代码中使用了 [AtCoder Library](https://github.com/atcoder/ac-library) 的懒标记线段树，需要使用 [expander.py](https://github.com/atcoder/ac-library/blob/master/expander.py) 展开后才能在 LeetCode 上运行。
+:::
+
+::::

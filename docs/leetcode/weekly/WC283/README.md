@@ -10,7 +10,7 @@
 - 空间复杂度 $\mathcal{O}(NM)$。
 
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -32,7 +32,7 @@ public:
 
 :::
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -42,7 +42,7 @@ class Solution:
 
 :::
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 impl Solution {
@@ -72,7 +72,7 @@ impl Solution {
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -95,7 +95,7 @@ public:
 
 :::
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -112,7 +112,7 @@ class Solution:
 
 :::
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 use std::collections::BTreeSet;
@@ -146,7 +146,7 @@ impl Solution {
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -178,7 +178,7 @@ public:
 
 :::
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -204,7 +204,7 @@ class Solution:
 
 :::
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 use std::rc::Rc;
@@ -256,7 +256,7 @@ impl Solution {
 - 时间复杂度 $\mathcal{O}(N\log C)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -280,7 +280,7 @@ public:
 
 :::
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from math import gcd, lcm
@@ -299,7 +299,7 @@ class Solution:
 
 :::
 
-:::details参考代码（Rust）
+:::details 参考代码（Rust）
 
 ```rust
 fn gcd(i: i32, j: i32) -> i32 {

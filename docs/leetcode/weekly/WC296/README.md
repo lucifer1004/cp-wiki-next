@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -34,7 +34,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -60,7 +60,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N+Q)$ 。
 - 空间复杂度 $\mathcal{O}(N)$ 。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -96,7 +96,7 @@ class Solution:
 
 ### 方法一：链表模拟
 
-:::details参考代码（C++，使用 `list`）
+:::details 参考代码（C++，使用 `list`）
 
 ```cpp
 const int LEN = 10;
@@ -141,7 +141,7 @@ public:
 };
 ```
 
-:::details参考代码（C++，使用自定义链表）
+:::details 参考代码（C++，使用自定义链表）
 
 ```cpp
 const int LEN = 10;
@@ -203,7 +203,7 @@ public:
 
 ### 方法二：栈模拟
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int LEN = 10;

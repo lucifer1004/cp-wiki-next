@@ -4,7 +4,7 @@
 
 模拟。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -24,7 +24,7 @@ public:
 
 按要求进行模拟。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -69,7 +69,7 @@ public:
 
 总时间复杂度为$O(n\log n)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -133,7 +133,7 @@ public:
 
 该方法的时间复杂度为$O(E^2)$，在本题的数据范围内可以通过。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct Edge {
@@ -255,7 +255,7 @@ public:
 
 运行过程的瓶颈是排序，所以总时间复杂度为$O(E\log E)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #define INF 0x3f3f3f3f

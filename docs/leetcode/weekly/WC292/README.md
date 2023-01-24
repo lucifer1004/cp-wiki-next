@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(|S|)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -29,7 +29,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(H)$，其中 $H$ 表示树高。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -68,7 +68,7 @@ public:
 - 时间复杂度 $\mathcal{O}(|S|)$ 。
 - 空间复杂度 $\mathcal{O}(|S|)$，可以进一步优化到 $\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -99,7 +99,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(NM(N+M))$，可以利用 `bitset` 进一步优化。
 - 空间复杂度 $\mathcal{O}(NM(N+M))$，可以利用 `bitset` 进一步优化。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

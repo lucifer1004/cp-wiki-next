@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N\log N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -29,7 +29,7 @@ class Solution:
 - 时间复杂度为$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -63,7 +63,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(V+E)$。
 - 空间复杂度$\mathcal{O}(V+E)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int INF = 0x3f3f3f3f;
@@ -124,7 +124,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log C)$。其中$C$是乘积上下界之差。
 - 空间复杂度$\mathcal{O}(N\log C)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 using ll = long long;

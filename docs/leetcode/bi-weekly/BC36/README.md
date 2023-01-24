@@ -6,7 +6,7 @@
 
 单次操作的时间复杂度为$O(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class ParkingSystem {
@@ -30,7 +30,7 @@ public:
 
 时间复杂度$O(N\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -72,7 +72,7 @@ public:
 
 时间复杂度$O(NM)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -100,7 +100,7 @@ public:
 
 时间复杂度$O(N\log N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

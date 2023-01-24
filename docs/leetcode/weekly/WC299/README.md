@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(N^2)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -31,7 +31,7 @@ public:
 
 :::
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -51,7 +51,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int MOD = 1e9 + 7;
@@ -81,7 +81,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N)$ 。
 - 空间复杂度 $\mathcal{O}(N)$ 。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -121,7 +121,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N^2)$ 。
 - 空间复杂度 $\mathcal{O}(N)$ 。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -35,7 +35,7 @@ class Solution:
 - 时间复杂度为$\mathcal{O}(N\log N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -74,7 +74,7 @@ public:
 - 时间复杂度$\mathcal{O}(N+Q)$。
 - 空间复杂度$\mathcal{O}(N+Q)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -122,7 +122,7 @@ public:
 - 时间复杂度$\mathcal{O}(64^N\cdot N^2)$。但由于限制了最多有一个皇后，实际最大的复杂度是$\mathcal{O}(64\cdot 32^{N-1}\cdot N^2)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int d[8][2] = {{-1, 0}, {-1, -1}, {0, -1}, {1, -1}, {1, 0}, {1, 1}, {0, 1}, {-1, 1}};

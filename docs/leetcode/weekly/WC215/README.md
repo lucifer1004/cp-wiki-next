@@ -7,7 +7,7 @@
 - 插入操作的均摊时间复杂度为$O(1)$。因为指针是单向移动的。
 - 空间复杂度$O(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class OrderedStream {
@@ -47,7 +47,7 @@ public:
 - 时间复杂度$O(|l_1|+|l_2|+C\log C)$，$C$为字母表的大小。
 - 空间复杂度$O(C)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -83,7 +83,7 @@ public:
 - 时间复杂度$O(N)$。
 - 空间复杂度$O(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -124,7 +124,7 @@ public:
 - 时间复杂度$O(IE\cdot\max(N,M)\cdot3^{2\cdot\min(N,M)})$。
 - 空间复杂度$O(K)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 int dp[26][26][243];

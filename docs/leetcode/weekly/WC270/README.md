@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(N + C)$，其中$C$为区间内偶数的数目。
 - 空间复杂度$\mathcal{O}(N + C)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -29,7 +29,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -67,7 +67,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -148,7 +148,7 @@ public:
 - 不考虑最后用`map`判断是否反向的话，时间复杂度$\mathcal{O}(N)$；如果实现一下`vector<int>`的哈希函数，可以替换为`unordered_map`，从而保证整体时间复杂度仍为$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

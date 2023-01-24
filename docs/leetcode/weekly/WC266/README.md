@@ -9,7 +9,7 @@
 - 时间复杂度$\mathcal{O}(|S|^3)$。
 - 空间复杂度$\mathcal{O}(|S|^3)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -40,7 +40,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -103,7 +103,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(|S|)$。
 - 空间复杂度$\mathcal{O}(|S|)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -131,7 +131,7 @@ class Solution:
 - 时间复杂度$\mathcal{O}(N\log Q_{\max})$，其中$Q_{\max}$表示数目最多的商品的件数。
 - 空间复杂度$\mathcal{O}(C)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -170,7 +170,7 @@ public:
 - 时间复杂度$\mathcal{O}(D^{T/t})$。其中$D\le4$为最大度数，$t\ge10$为最小边权，$T\le100$为最长的允许时间。
 - 空间复杂度$\mathcal{O}(V+E)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

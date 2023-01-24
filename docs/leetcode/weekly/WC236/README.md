@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -34,7 +34,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$。
 - 空间复杂度$\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -57,7 +57,7 @@ public:
 - 时间复杂度$\mathcal{O}(C^2N)$。
 - 空间复杂度$\mathcal{O}(C)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 const int inf = 1e9;
@@ -116,7 +116,7 @@ public:
 解释：
 - `calculateMKAverage`中的补充元素操作仅会发生在有元素过期时。因为每个元素最多过期一次，所以补充元素操作的次数上限即为过期元素的数目。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class MKAverage {

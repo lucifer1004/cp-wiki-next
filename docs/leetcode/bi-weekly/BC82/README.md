@@ -7,7 +7,7 @@
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(H)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -34,7 +34,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\log N + M\log M)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 // 这题我的代码不够清晰，就用 0x3f 的了。
@@ -70,7 +70,7 @@ public:
 - 时间复杂度 $\mathcal{O}(N\log N)$ 。
 - 空间复杂度 $\mathcal{O}(N)$ 。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -119,7 +119,7 @@ public:
 
 :::
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 from heapq import heappush, heappop
@@ -169,7 +169,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N\log N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 struct UnionFind {

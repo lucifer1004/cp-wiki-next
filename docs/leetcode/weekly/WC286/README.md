@@ -9,7 +9,7 @@
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(N)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -30,7 +30,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(N)$。
 - 空间复杂度 $\mathcal{O}(1)$。
 
-:::details参考代码（Python）
+:::details 参考代码（Python）
 
 ```python
 class Solution:
@@ -57,7 +57,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(NQ)$。
 - 空间复杂度 $\mathcal{O}(NQ)$。
 
-:::details参考代码（Python 3）
+:::details 参考代码（Python 3）
 
 ```python
 class Solution:
@@ -90,7 +90,7 @@ class Solution:
 - 时间复杂度 $\mathcal{O}(\Sigma\cdot K)$，其中 $\Sigma$ 是所有栈的元素数目之和。
 - 空间复杂度 $\mathcal{O}(K)$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {

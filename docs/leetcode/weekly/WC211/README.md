@@ -7,7 +7,7 @@
 - 时间复杂度$O(|S|)$
 - 空间复杂度$O(C)$，其中$C$为字母表的大小，本题中$C=26$。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -42,7 +42,7 @@ public:
 - 时间复杂度$O(D^2|S|^2)$，本题中$D=10$。
 - 空间复杂度$O(|S|)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -87,7 +87,7 @@ public:
 - 时间复杂度$O(N^2)$
 - 空间复杂度$O(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -132,7 +132,7 @@ public:
 - 时间复杂度$O(N\log N+Q)$
 - 空间复杂度$O(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class UnionFind {

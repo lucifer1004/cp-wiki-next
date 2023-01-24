@@ -7,7 +7,7 @@
 - 时间复杂度$\mathcal{O}(|A|+\sum|W_i|)$。
 - 空间复杂度$\mathcal{O}(C)$，$C$为字母表大小，本题中为26。
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -41,7 +41,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$
 - 空间复杂度$\mathcal{O}(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -80,7 +80,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$
 - 空间复杂度$\mathcal{O}(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 class Solution {
@@ -141,7 +141,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$
 - 空间复杂度$\mathcal{O}(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 #define lson (idx << 1)
@@ -262,7 +262,7 @@ public:
 - 时间复杂度$\mathcal{O}(N\log N)$
 - 空间复杂度$\mathcal{O}(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
@@ -310,7 +310,7 @@ public:
 - 时间复杂度$\mathcal{O}(N)$
 - 空间复杂度$\mathcal{O}(N)$
 
-:::details参考代码（C++）
+:::details 参考代码（C++）
 
 ```cpp
 typedef long long ll;
