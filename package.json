@@ -39,7 +39,7 @@
     "remark-math": "3"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.2.0",
+    "@docusaurus/module-type-aliases": "2.3.0",
     "@docusaurus/types": "^2.2.0",
     "@tsconfig/docusaurus": "^1.0.6",
     "@types/node": "^18.11.18",
