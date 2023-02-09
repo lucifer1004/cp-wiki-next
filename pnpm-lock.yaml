@@ -10,7 +10,7 @@ specifiers:
   '@docusaurus/theme-mermaid': ^2.3.0
   '@docusaurus/types': ^2.3.0
   '@giscus/react': ^2.2.6
-  '@mdx-js/react': ^1.6.22
+  '@mdx-js/react': ^2.0.0
   '@tsconfig/docusaurus': ^1.0.6
   '@types/node': ^18.11.18
   '@typescript-eslint/eslint-plugin': ^5.49.0
@@ -41,7 +41,7 @@ dependencies:
   '@docusaurus/theme-live-codeblock': 2.3.0_gd6ospc3p5enx4hgtelukfgtge
   '@docusaurus/theme-mermaid': 2.3.0_72f5ylvv5qyncwuu36nsfplvaa
   '@giscus/react': 2.2.6_biqbaboplfbrettd7655fr4n2y
-  '@mdx-js/react': 1.6.22_react@18.2.0
+  '@mdx-js/react': 2.2.1_react@18.2.0
   clsx: 1.2.1
   hast-util-is-element: 2.1.3
   prism-react-renderer: 1.3.5_react@18.2.0
@@ -2434,6 +2434,16 @@ packages:
       react: 18.2.0
     dev: false
 
+  /@mdx-js/react/2.2.1_react@18.2.0:
+    resolution: {integrity: sha512-YdXcMcEnqZhzql98RNrqYo9cEhTTesBiCclEtoiQUbJwx87q9453GTapYU6kJ8ZZ2ek1Vp25SiAXEFy5O/eAPw==}
+    peerDependencies:
+      react: '>=16'
+    dependencies:
+      '@types/mdx': 2.0.3
+      '@types/react': 18.0.27
+      react: 18.2.0
+    dev: false
+
   /@mdx-js/util/1.6.22:
     resolution: {integrity: sha512-H1rQc1ZOHANWBvPcW+JpGwr+juXSxM8Q8YCkm3GhZd8REu1fHR3z99CErO1p9pkcfcxZnMdIZdIsXkOHY0NilA==}
 
@@ -2749,6 +2759,10 @@ packages:
     resolution: {integrity: sha512-W864tg/Osz1+9f4lrGTZpCSO5/z4608eUp19tbozkq2HJK6i3z1kT0H9tlADXuYIb1YYOBByU4Jsqkk75q48qA==}
     dependencies:
       '@types/unist': 2.0.6
+
+  /@types/mdx/2.0.3:
+    resolution: {integrity: sha512-IgHxcT3RC8LzFLhKwP3gbMPeaK7BM9eBH46OdapPA7yvuIUJ8H6zHZV53J8hGZcTSnt95jANt+rTBNUUc22ACQ==}
+    dev: false
 
   /@types/mime/3.0.1:
     resolution: {integrity: sha512-Y4XFY5VJAuw0FgAqPNd6NNoV44jbq9Bz2L7Rh/J6jLTiHBSBJa9fxqQIvkIld4GsoDOcCbvzOUAbLPsSKKg+uA==}
