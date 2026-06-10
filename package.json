@@ -42,7 +42,7 @@
     "@docusaurus/module-type-aliases": "3.8.1",
     "@docusaurus/types": "^3.8.1",
     "@tsconfig/docusaurus": "^2.0.3",
-    "@types/node": "^24.0.14",
+    "@types/node": "^25.0.0",
     "@typescript-eslint/eslint-plugin": "^8.37.0",
     "@typescript-eslint/parser": "^8.37.0",
     "docusaurus-plugin-google-adsense": "^0.3.2",
