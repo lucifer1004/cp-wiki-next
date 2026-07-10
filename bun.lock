@@ -1,43 +1,44 @@
 {
   "lockfileVersion": 1,
+  "configVersion": 0,
   "workspaces": {
     "": {
       "name": "cp-wiki-next",
       "dependencies": {
-        "@algolia/client-search": "latest",
-        "@ctrl/react-adsense": "latest",
-        "@docusaurus/core": "latest",
-        "@docusaurus/preset-classic": "latest",
-        "@docusaurus/theme-live-codeblock": "latest",
-        "@docusaurus/theme-mermaid": "latest",
-        "@giscus/react": "latest",
-        "@mdx-js/react": "latest",
-        "clsx": "latest",
-        "hast-util-is-element": "latest",
-        "prism-react-renderer": "latest",
-        "react": "latest",
-        "react-dom": "latest",
-        "rehype-katex": "latest",
-        "remark-math": "latest",
+        "@algolia/client-search": "^5.33.0",
+        "@ctrl/react-adsense": "^1.8.0",
+        "@docusaurus/core": "^3.8.1",
+        "@docusaurus/preset-classic": "^3.8.1",
+        "@docusaurus/theme-live-codeblock": "^3.8.1",
+        "@docusaurus/theme-mermaid": "^3.8.1",
+        "@giscus/react": "^3.1.0",
+        "@mdx-js/react": "^3.1.0",
+        "clsx": "^2.1.1",
+        "hast-util-is-element": "3.0.0",
+        "prism-react-renderer": "^2.4.1",
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0",
+        "rehype-katex": "^7.0.1",
+        "remark-math": "^6.0.0",
       },
       "devDependencies": {
-        "@docusaurus/module-type-aliases": "latest",
-        "@docusaurus/types": "latest",
-        "@tsconfig/docusaurus": "latest",
-        "@types/bun": "latest",
-        "@types/node": "latest",
-        "@typescript-eslint/eslint-plugin": "latest",
-        "@typescript-eslint/parser": "latest",
-        "docusaurus-plugin-google-adsense": "latest",
-        "eslint": "latest",
-        "eslint-config-prettier": "latest",
-        "eslint-plugin-markdown": "latest",
-        "eslint-plugin-prettier": "latest",
-        "eslint-plugin-simple-import-sort": "latest",
-        "husky": "latest",
-        "lint-staged": "latest",
-        "prettier": "latest",
-        "typescript": "latest",
+        "@docusaurus/module-type-aliases": "3.10.2",
+        "@docusaurus/types": "^3.8.1",
+        "@tsconfig/docusaurus": "^2.0.3",
+        "@types/bun": "^1.2.18",
+        "@types/node": "^24.0.14",
+        "@typescript-eslint/eslint-plugin": "^8.37.0",
+        "@typescript-eslint/parser": "^8.37.0",
+        "docusaurus-plugin-google-adsense": "^0.3.2",
+        "eslint": "^9.31.0",
+        "eslint-config-prettier": "^10.1.5",
+        "eslint-plugin-markdown": "^5.1.0",
+        "eslint-plugin-prettier": "^5.5.1",
+        "eslint-plugin-simple-import-sort": "^12.1.1",
+        "husky": "^9.1.7",
+        "lint-staged": "^16.1.2",
+        "prettier": "^3.6.2",
+        "typescript": "^5.8.3",
       },
     },
   },
@@ -410,7 +411,7 @@
 
     "@docusaurus/mdx-loader": ["@docusaurus/mdx-loader@3.8.1", "", { "dependencies": { "@docusaurus/logger": "3.8.1", "@docusaurus/utils": "3.8.1", "@docusaurus/utils-validation": "3.8.1", "@mdx-js/mdx": "^3.0.0", "@slorber/remark-comment": "^1.0.0", "escape-html": "^1.0.3", "estree-util-value-to-estree": "^3.0.1", "file-loader": "^6.2.0", "fs-extra": "^11.1.1", "image-size": "^2.0.2", "mdast-util-mdx": "^3.0.0", "mdast-util-to-string": "^4.0.0", "rehype-raw": "^7.0.0", "remark-directive": "^3.0.0", "remark-emoji": "^4.0.0", "remark-frontmatter": "^5.0.0", "remark-gfm": "^4.0.0", "stringify-object": "^3.3.0", "tslib": "^2.6.0", "unified": "^11.0.3", "unist-util-visit": "^5.0.0", "url-loader": "^4.1.1", "vfile": "^6.0.1", "webpack": "^5.88.1" }, "peerDependencies": { "react": "^18.0.0 || ^19.0.0", "react-dom": "^18.0.0 || ^19.0.0" } }, "sha512-DZRhagSFRcEq1cUtBMo4TKxSNo/W6/s44yhr8X+eoXqCLycFQUylebOMPseHi5tc4fkGJqwqpWJLz6JStU9L4w=="],
 
-    "@docusaurus/module-type-aliases": ["@docusaurus/module-type-aliases@3.8.1", "", { "dependencies": { "@docusaurus/types": "3.8.1", "@types/history": "^4.7.11", "@types/react": "*", "@types/react-router-config": "*", "@types/react-router-dom": "*", "react-helmet-async": "npm:@slorber/react-helmet-async@1.3.0", "react-loadable": "npm:@docusaurus/react-loadable@6.0.0" }, "peerDependencies": { "react": "*", "react-dom": "*" } }, "sha512-6xhvAJiXzsaq3JdosS7wbRt/PwEPWHr9eM4YNYqVlbgG1hSK3uQDXTVvQktasp3VO6BmfYWPozueLWuj4gB+vg=="],
+    "@docusaurus/module-type-aliases": ["@docusaurus/module-type-aliases@3.10.2", "", { "dependencies": { "@docusaurus/types": "3.10.2", "@types/history": "^4.7.11", "@types/react": "*", "@types/react-router-config": "*", "@types/react-router-dom": "*", "react-helmet-async": "npm:@slorber/react-helmet-async@1.3.0", "react-loadable": "npm:@docusaurus/react-loadable@6.0.0" }, "peerDependencies": { "react": "*", "react-dom": "*" } }, "sha512-h/I5e4jaAhDHW4vaLENi1i2hnOEnXY1t9R+nnRTbgUl7ymVRzN/HF7dDfj8rKYGj8gfIge+Ef+iYRAMtbGvsrQ=="],
 
     "@docusaurus/plugin-content-blog": ["@docusaurus/plugin-content-blog@3.8.1", "", { "dependencies": { "@docusaurus/core": "3.8.1", "@docusaurus/logger": "3.8.1", "@docusaurus/mdx-loader": "3.8.1", "@docusaurus/theme-common": "3.8.1", "@docusaurus/types": "3.8.1", "@docusaurus/utils": "3.8.1", "@docusaurus/utils-common": "3.8.1", "@docusaurus/utils-validation": "3.8.1", "cheerio": "1.0.0-rc.12", "feed": "^4.2.2", "fs-extra": "^11.1.1", "lodash": "^4.17.21", "schema-dts": "^1.1.2", "srcset": "^4.0.0", "tslib": "^2.6.0", "unist-util-visit": "^5.0.0", "utility-types": "^3.10.0", "webpack": "^5.88.1" }, "peerDependencies": { "@docusaurus/plugin-content-docs": "*", "react": "^18.0.0 || ^19.0.0", "react-dom": "^18.0.0 || ^19.0.0" } }, "sha512-vNTpMmlvNP9n3hGEcgPaXyvTljanAKIUkuG9URQ1DeuDup0OR7Ltvoc8yrmH+iMZJbcQGhUJF+WjHLwuk8HSdw=="],
 
@@ -2615,6 +2616,16 @@
     "@docusaurus/core/webpack-merge": ["webpack-merge@6.0.1", "", { "dependencies": { "clone-deep": "^4.0.1", "flat": "^5.0.2", "wildcard": "^2.0.1" } }, "sha512-hXXvrjtx2PLYx4qruKl+kyRSLc52V+cCvMxRjmKwoA+CBbbF5GfIBtR6kCvl0fYGqTUPKB+1ktVmTHqMOzgCBg=="],
 
     "@docusaurus/mdx-loader/mdast-util-to-string": ["mdast-util-to-string@4.0.0", "", { "dependencies": { "@types/mdast": "^4.0.0" } }, "sha512-0H44vDimn51F0YwvxSJSm0eCDOJTRlmN0R1yBh4HLj9wiV1Dn0QoXGbvFAWj2hSItVTlCmBF1hqKlIyUBVFLPg=="],
+
+    "@docusaurus/module-type-aliases/@docusaurus/types": ["@docusaurus/types@3.10.2", "", { "dependencies": { "@mdx-js/mdx": "^3.0.0", "@types/history": "^4.7.11", "@types/mdast": "^4.0.2", "@types/react": "*", "commander": "^5.1.0", "joi": "^17.9.2", "react-helmet-async": "npm:@slorber/react-helmet-async@1.3.0", "utility-types": "^3.10.0", "webpack": "^5.95.0", "webpack-merge": "^5.9.0" }, "peerDependencies": { "react": "^18.0.0 || ^19.0.0", "react-dom": "^18.0.0 || ^19.0.0" } }, "sha512-B6rvfwIFSapUqUJjMriZswX13K8l5Z7AcmVE6uTEJpYddQieSTR12DsGaFtcZAIDsQd4p+0WTl0Vc6jmZK0Trw=="],
+
+    "@docusaurus/plugin-content-docs/@docusaurus/module-type-aliases": ["@docusaurus/module-type-aliases@3.8.1", "", { "dependencies": { "@docusaurus/types": "3.8.1", "@types/history": "^4.7.11", "@types/react": "*", "@types/react-router-config": "*", "@types/react-router-dom": "*", "react-helmet-async": "npm:@slorber/react-helmet-async@1.3.0", "react-loadable": "npm:@docusaurus/react-loadable@6.0.0" }, "peerDependencies": { "react": "*", "react-dom": "*" } }, "sha512-6xhvAJiXzsaq3JdosS7wbRt/PwEPWHr9eM4YNYqVlbgG1hSK3uQDXTVvQktasp3VO6BmfYWPozueLWuj4gB+vg=="],
+
+    "@docusaurus/theme-classic/@docusaurus/module-type-aliases": ["@docusaurus/module-type-aliases@3.8.1", "", { "dependencies": { "@docusaurus/types": "3.8.1", "@types/history": "^4.7.11", "@types/react": "*", "@types/react-router-config": "*", "@types/react-router-dom": "*", "react-helmet-async": "npm:@slorber/react-helmet-async@1.3.0", "react-loadable": "npm:@docusaurus/react-loadable@6.0.0" }, "peerDependencies": { "react": "*", "react-dom": "*" } }, "sha512-6xhvAJiXzsaq3JdosS7wbRt/PwEPWHr9eM4YNYqVlbgG1hSK3uQDXTVvQktasp3VO6BmfYWPozueLWuj4gB+vg=="],
+
+    "@docusaurus/theme-common/@docusaurus/module-type-aliases": ["@docusaurus/module-type-aliases@3.8.1", "", { "dependencies": { "@docusaurus/types": "3.8.1", "@types/history": "^4.7.11", "@types/react": "*", "@types/react-router-config": "*", "@types/react-router-dom": "*", "react-helmet-async": "npm:@slorber/react-helmet-async@1.3.0", "react-loadable": "npm:@docusaurus/react-loadable@6.0.0" }, "peerDependencies": { "react": "*", "react-dom": "*" } }, "sha512-6xhvAJiXzsaq3JdosS7wbRt/PwEPWHr9eM4YNYqVlbgG1hSK3uQDXTVvQktasp3VO6BmfYWPozueLWuj4gB+vg=="],
+
+    "@docusaurus/theme-mermaid/@docusaurus/module-type-aliases": ["@docusaurus/module-type-aliases@3.8.1", "", { "dependencies": { "@docusaurus/types": "3.8.1", "@types/history": "^4.7.11", "@types/react": "*", "@types/react-router-config": "*", "@types/react-router-dom": "*", "react-helmet-async": "npm:@slorber/react-helmet-async@1.3.0", "react-loadable": "npm:@docusaurus/react-loadable@6.0.0" }, "peerDependencies": { "react": "*", "react-dom": "*" } }, "sha512-6xhvAJiXzsaq3JdosS7wbRt/PwEPWHr9eM4YNYqVlbgG1hSK3uQDXTVvQktasp3VO6BmfYWPozueLWuj4gB+vg=="],
 
     "@eslint-community/eslint-utils/eslint-visitor-keys": ["eslint-visitor-keys@3.4.3", "", {}, "sha512-wpc+LXeiyiisxPlEkUzU6svyS1frIO3Mgxj1fdy7Pm8Ygzguax2N3Fa/D/ag1WqbOprdI+uY6wMUl8/a2G+iag=="],
 
